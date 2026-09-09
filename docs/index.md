@@ -24,11 +24,7 @@ První návrh našeho okruhu Ománem: pobřeží, poušť, historická města a 
 
 ## Lety
 
-Vybrané lety s **Pegasus Airlines přes Istanbul Sabiha (SAW)**. Odlet z Prahy **12. 3. 2027 ve 14:25**, návrat do Prahy **21. 3. ve 13:30**. Pobyt v Ománu zůstává 13.–21. března.
-
-**Preferovaný tarif Saver: 197 € tam + 188 € zpět = 385 €.** Alternativa Light: 319 € celkem. Rezervace zatím není potvrzená.
-
-[Podrobný rozpis letů a ceny tarifů]({{ '/lety/' | relative_url }})
+[Vybrané lety a ceny tarifů — Pegasus Airlines]({{ '/lety/' | relative_url }})
 
 ## Trasa
 
