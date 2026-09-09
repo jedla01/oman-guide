@@ -1,12 +1,12 @@
 # Omán 2027
 
-A Czech-language travel guide, ready to populate for a trip to Oman in 2027.
+A Czech-language travel guide for 13–21 March 2027, with a provisional eight-day itinerary.
 The site uses Jekyll and the Cayman theme.
 
 ## Editing the guide
 
 - `docs/index.md`: trip overview, preparation, transport, accommodation and budget.
-- `docs/den1.md` and `docs/den2.md`: starter daily itineraries.
+- `docs/den1.md` through `docs/den8.md`: daily plans and items to verify.
 - `docs/_config.yml`: site title, description and language.
 - `docs/assets/`: styles and any new trip images.
 
@@ -44,4 +44,4 @@ source. The workflow in `.github/workflows/jekyll.yml` builds `docs/` and deploy
 on pushes to `main`, or when run manually. It supplies the repository base path
 automatically.
 
-The starter deliberately leaves dates, reservations and travel details to fill in.
+The itinerary is a draft; flight times, bookings, travel times and visiting conditions remain to be confirmed.
