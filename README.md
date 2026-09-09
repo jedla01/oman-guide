@@ -11,6 +11,9 @@ The site uses Jekyll and the Cayman theme.
 - `docs/_config.yml`: site title, description and language.
 - `docs/assets/`: styles and any new trip images.
 
+The visual style uses Oman's red, white and green flag palette. The local flag image
+comes from the [Oman Foreign Ministry downloads](https://www.fm.gov.om/en/ministry/media/downloads/).
+
 To add a day, copy a daily page and give it a unique title, permalink and
 `nav_order`. Pages with `nav_order` appear in the header navigation automatically.
 Use Jekyll's `relative_url` filter for internal links so they also work under a
