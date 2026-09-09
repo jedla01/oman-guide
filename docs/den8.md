@@ -9,7 +9,7 @@ nav_order: 9
 **Datum:** sobota 20. března 2027  
 **Plánovaný nocleh:** Bez plánovaného noclehu — odlet v noci na 21. 3.
 
-Poslední celý den: varianta šnorchlování u ostrovů Daymaniyat nebo program v Maskatu. V noci z 20. na 21. března odlet.
+Poslední celý den: varianta šnorchlování u ostrovů Daymaniyat nebo program v Maskatu. V noci z 20. na 21. března přesun na letiště pro vybraný let **PC831 ve 04:15 dne 21. 3.** Návrat do Prahy přes SAW ve **13:30**. [Rozpis letů]({{ '/lety/' | relative_url }}).
 
 ## Program
 
@@ -21,7 +21,7 @@ Poslední celý den: varianta šnorchlování u ostrovů Daymaniyat nebo program
 
 ## K doplnění a ověření
 
-- [ ] Potvrdit přesný čas letu dne 21. 3. a podle něj naplánovat příjezd na letiště.
+- [ ] Potvrdit rezervaci letu PC831 ve 04:15 dne 21. 3. a naplánovat příjezd na letiště.
 - [ ] Ověřit dostupnost, podmínky a čas návratu výletu na Daymaniyat.
 - [ ] Doplnit místo a čas vrácení auta a uložení zavazadel.
 

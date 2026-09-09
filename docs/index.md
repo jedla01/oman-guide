@@ -9,7 +9,7 @@ První návrh našeho okruhu Ománem: pobřeží, poušť, historická města a 
 
 **Termín: 13.–21. března 2027.** Přílet do Maskatu v sobotu 13. března, poslední celý den v sobotu 20. března a odlet v noci z 20. na 21. března.
 
-**Stav:** Pracovní návrh podle prvního podkladu. Program a místa noclehů jsou předběžné; konkrétní lety, rezervace, časy přesunů a podmínky návštěv ještě doplníme.
+**Stav:** Pracovní návrh podle prvního podkladu. Program a místa noclehů jsou předběžné; lety jsou vybrané, rezervace, časy přesunů a podmínky návštěv ještě potvrdíme.
 
 ## Základní údaje
 
@@ -19,8 +19,16 @@ První návrh našeho okruhu Ománem: pobřeží, poušť, historická města a 
 | Program | 8 kalendářních dní programu včetně příletového dne, poté noční odlet |
 | Noclehy | 7 plánovaných nocí, od 13./14. do 19./20. 3. |
 | Účastníci | Doplnit |
-| Přílet | Maskat, sobota 13. 3. — čas a let doplnit |
-| Odlet | Noc ze soboty 20. 3. na neděli 21. 3. — čas a let doplnit |
+| Přílet | Maskat, sobota 13. 3. v 03:10 — PC830 |
+| Odlet | Maskat, neděle 21. 3. v 04:15 — PC831 |
+
+## Lety
+
+Vybrané lety s **Pegasus Airlines přes Istanbul Sabiha (SAW)**. Odlet z Prahy **12. 3. 2027 ve 14:25**, návrat do Prahy **21. 3. ve 13:30**. Pobyt v Ománu zůstává 13.–21. března.
+
+**Preferovaný tarif Saver: 197 € tam + 188 € zpět = 385 €.** Alternativa Light: 319 € celkem. Rezervace zatím není potvrzená.
+
+[Podrobný rozpis letů a ceny tarifů]({{ '/lety/' | relative_url }})
 
 ## Trasa
 
@@ -56,7 +64,8 @@ Poslední den zůstává otevřený: šnorchlování u ostrovů Daymaniyat, nebo
 - [x] Stanovit termín: 13.–21. 3. 2027.
 - [x] Připravit první návrh okruhu a noclehů.
 - [ ] Doplnit účastníky a rozpočet.
-- [ ] Potvrdit lety a přesné časy příletu a odletu.
+- [x] Vybrat lety a preferovaný tarif Saver.
+- [ ] Potvrdit rezervaci a letový řád vybraných letů.
 - [ ] Ověřit aktuální podmínky vstupu a potřebné doklady.
 - [ ] Zajistit cestovní pojištění.
 - [ ] Vybrat auto a ověřit podmínky pro cestu do hor a pouštního kempu.
@@ -93,7 +102,7 @@ Společnou mapu doplníme podle odsouhlasených zastávek. Návrh míst a otevř
 
 ## Rozpočet
 
-Doplnit náklady na letenky, auto, ubytování, pouštní kemp, jídlo a aktivity včetně měny.
+Vybrané letenky: **385 € v preferovaném tarifu Saver** za cestu tam i zpět ([rozpis cen]({{ '/lety/' | relative_url }})). Doplnit náklady na auto, ubytování, pouštní kemp, jídlo a aktivity včetně měny.
 
 ## Praktické poznámky
 

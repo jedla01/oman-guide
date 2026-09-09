@@ -6,6 +6,7 @@ The site uses Jekyll and the Cayman theme.
 ## Editing the guide
 
 - `docs/index.md`: trip overview, preparation, transport, accommodation and budget.
+- `docs/lety.md`: selected flights, connections and fare comparison in euros.
 - `docs/den1.md` through `docs/den8.md`: daily plans and items to verify.
 - `docs/_config.yml`: site title, description and language.
 - `docs/assets/`: styles and any new trip images.

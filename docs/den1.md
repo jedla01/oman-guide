@@ -9,7 +9,7 @@ nav_order: 2
 **Datum:** sobota 13. března 2027  
 **Plánovaný nocleh:** Maskat
 
-Přílet do Maskatu; podle času příletu prohlídka města a Mutrah.
+Přílet do Maskatu vybraným letem **PC830 v 03:10 dne 13. 3.**; prohlídka města a Mutrah podle energie po noční cestě. [Rozpis letů]({{ '/lety/' | relative_url }}).
 
 ## Program
 
@@ -21,7 +21,7 @@ Přílet do Maskatu; podle času příletu prohlídka města a Mutrah.
 
 ## K doplnění a ověření
 
-- [ ] Doplnit čas příletu a převzetí auta.
+- [ ] Potvrdit přílet v 03:10 a domluvit čas převzetí auta.
 - [ ] Vybrat ubytování v Maskatu.
 
 ## Rezervace a poznámky
