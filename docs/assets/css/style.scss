@@ -2,8 +2,8 @@
 ---
 
 $header-heading-color: #ffffff;
-$header-bg-color: #007a43;
-$header-bg-color-secondary: #005d38;
+$header-bg-color: #e51c35;
+$header-bg-color-secondary: #c8102e;
 $section-headings-color: #006b3c;
 $body-text-color: #243b33;
 $body-link-color: #006b3c;
@@ -15,7 +15,7 @@ $code-text-color: #a51d30;
 @import 'jekyll-theme-cayman';
 
 body {
-  background: #edf7f1;
+  background: #dcf9e9;
   color: $body-text-color;
   font-family: "Segoe UI", Tahoma, Arial, sans-serif;
   line-height: 1.7;
@@ -31,11 +31,34 @@ input:focus-visible {
 
 body > .page-header {
   position: relative;
-  padding: 2.5rem 1.5rem 2rem;
+  padding: 0;
   color: #ffffff;
-  background: linear-gradient(120deg, #005d38, #008449);
-  border-top: 8px solid #db2338;
-  border-bottom: 6px solid #ffffff;
+  background: linear-gradient(120deg, #c8102e, #e51c35);
+  border-top: 8px solid #ffffff;
+  border-bottom: 8px solid #00a455;
+}
+
+.title-banner {
+  padding: 2.5rem 1.5rem;
+}
+
+.title-banner--photo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: clamp(24rem, 40vw, 36rem);
+  background-color: #243b33;
+  background-image:
+    linear-gradient(rgba(0, 0, 0, 0.42), rgba(0, 0, 0, 0.48)),
+    url("{{ '/assets/images/oman-title.png' | relative_url }}");
+  background-size: cover;
+  background-position: center 55%;
+}
+
+.title-banner--photo .project-name,
+.title-banner--photo .project-tagline {
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.7);
 }
 
 .page-header .oman-flag {
@@ -74,6 +97,7 @@ body > .page-header {
   gap: 0.6rem;
   max-width: 64rem;
   margin: 0 auto;
+  padding: 1rem 1.5rem;
 }
 
 .page-header nav .btn {
@@ -99,7 +123,7 @@ body > .page-header {
 }
 
 .page-header nav .btn[aria-current='page'] {
-  background: #bd1e32;
+  background: #007a3d;
   border-color: #ffffff;
   color: #ffffff;
   text-decoration: underline;
@@ -132,6 +156,7 @@ body > .page-header {
   padding: 0.2rem 0 0.5rem 0.85rem;
   border-left: 4px solid #db2338;
   border-bottom: 1px solid $border-color;
+  background: linear-gradient(90deg, #e0f8eb, #ffffff);
 }
 
 .main-content a { text-decoration: underline; }
@@ -147,7 +172,7 @@ body > .page-header {
 }
 
 .main-content table th {
-  background: #006b3c;
+  background: #007a3d;
   color: #ffffff;
   text-align: left;
 }
@@ -158,9 +183,9 @@ body > .page-header {
   border-color: $table-border-color;
 }
 
-.main-content table tr:nth-child(even) { background: #edf7f1; }
-.main-content table tbody tr:hover { background: #e1f2e7; }
-.main-content table td strong { color: #a51d30; }
+.main-content table tr:nth-child(even) { background: #e0f8eb; }
+.main-content table tbody tr:hover { background: #c6f1d9; }
+.main-content table td strong { color: #c8102e; }
 
 .main-content blockquote {
   padding: 0.75rem 1.25rem;
@@ -185,7 +210,12 @@ body > .page-header {
 }
 
 @media screen and (max-width: 42em) {
-  body > .page-header { padding: 1.75rem 1rem 1.5rem; }
+  body > .page-header { padding: 0; }
+  .title-banner { padding: 2rem 1rem; }
+  .title-banner--photo {
+    min-height: 25rem;
+    background-position: 55% center;
+  }
   .page-header .project-tagline { font-size: 1rem; }
   .page-header nav { gap: 0.5rem; }
   .page-header nav .btn { padding: 0.5rem 0.75rem; }

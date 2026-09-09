@@ -4,16 +4,19 @@
     <meta charset="UTF-8">
     {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#007a43">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <meta name="theme-color" content="#c8102e">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.time | date: '%s' }}">
   </head>
   <body>
     <a id="skip-to-content" href="#content">Přejít na obsah</a>
 
     <header class="page-header" role="banner">
+      {% assign title_photo = site.static_files | where: 'path', '/assets/images/oman-title.png' | first %}
+      <div class="title-banner{% if title_photo %} title-banner--photo{% endif %}">
       <img class="oman-flag" src="{{ '/assets/images/oman-flag.jpg' | relative_url }}" alt="Vlajka Ománu" width="112" height="64">
       <h1 class="project-name"><a href="{{ '/' | relative_url }}">{{ site.title | escape }}</a></h1>
       <p class="project-tagline">{{ site.description | escape }}</p>
+      </div>
       <nav aria-label="Hlavní navigace">
         {% assign navigation_pages = site.pages | sort: 'nav_order' %}
         {% for navigation_page in navigation_pages %}

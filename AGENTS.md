@@ -2,6 +2,7 @@
 
 - Keep the guide concise and in Czech. Lead with the important information.
 - Use Oman's flag and its red, white and green colors for the visual style. Prefer bright white surfaces and readable contrast; avoid desert, sand and brown styling.
+- Use the user's mosque photo for the title background (`docs/assets/images/oman-title.png`), with a readable overlay. Keep navigation below the photo and retain the flag colors elsewhere.
 - Use tables for structured facts such as flights, fares, accommodation and budgets. Do not add long descriptions or repeat table values in prose.
 - For flights, show dates, flight numbers, airports, departure and arrival times, durations, connections and prices with currency. Mark next-day arrivals clearly.
 - Highlight the preferred option (currently Saver for flights) and show totals. Put direction-level fares once per direction, not on every flight segment.
