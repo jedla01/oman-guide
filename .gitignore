@@ -1,0 +1,22 @@
+# Ignore Ruby and Bundler-related files
+.bundle/
+vendor/
+Gemfile.lock
+
+# Ignore Jekyll build output
+_site/
+.jekyll-cache/
+
+# Ignore logs and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore GitHub Pages artifacts
+github-pages/

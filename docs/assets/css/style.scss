@@ -1,0 +1,233 @@
+---
+---
+
+// Cayman variables keep the theme's defaults consistent with the Oman palette.
+$header-heading-color: #fff8eb;
+$header-bg-color: #693c2e;
+$header-bg-color-secondary: #322b26;
+$section-headings-color: #854328;
+$body-text-color: #453c32;
+$body-link-color: #24625c;
+$border-color: #dfcdb0;
+$table-border-color: #dfcdb0;
+$code-bg-color: #f3eadb;
+$code-text-color: #68412d;
+
+@import 'jekyll-theme-cayman';
+
+body {
+  background: #f0e4d0;
+  color: $body-text-color;
+  font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+  line-height: 1.75;
+}
+
+a {
+  text-underline-offset: 0.2em;
+}
+
+a:focus-visible,
+input:focus-visible {
+  outline: 3px solid #24625c;
+  outline-offset: 4px;
+}
+
+body > .page-header {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  padding: 3.5rem 1.5rem 4.5rem;
+  color: #fff8eb;
+  background: linear-gradient(125deg, #302d28 0%, #693c2e 55%, #9c5936 100%);
+  border-bottom: 5px solid #c69b59;
+}
+
+// A quiet repeating diamond pattern, drawn entirely in CSS.
+.page-header::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  inset: 0;
+  opacity: 0.12;
+  background-image:
+    linear-gradient(45deg, transparent 47%, #edcf96 49%, #edcf96 51%, transparent 53%),
+    linear-gradient(-45deg, transparent 47%, #edcf96 49%, #edcf96 51%, transparent 53%);
+  background-size: 48px 48px;
+  pointer-events: none;
+}
+
+// Layered dune silhouettes sit below the text and navigation.
+.page-header::after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  inset: 0;
+  background:
+    radial-gradient(ellipse 85% 65% at 95% 135%, #c09661 98%, transparent 100%),
+    radial-gradient(ellipse 85% 55% at 5% 125%, #9c7049 98%, transparent 100%);
+  pointer-events: none;
+}
+
+.page-header .project-name {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(2.75rem, 7vw, 4.5rem);
+  font-weight: 400;
+  line-height: 1.15;
+  letter-spacing: 0.025em;
+}
+
+.page-header .project-name a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.page-header .project-tagline {
+  margin: 1rem 0 1.75rem;
+  color: #f1dfc3;
+  opacity: 1;
+  font-size: 1.1rem;
+}
+
+.page-header nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.65rem;
+}
+
+.page-header nav .btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  margin: 0;
+  padding: 0.6rem 1.2rem;
+  border: 1px solid #bc9871;
+  border-radius: 0.35rem;
+  background: #49332b;
+  color: #fff8eb;
+  font-size: 0.95rem;
+  text-decoration: none;
+}
+
+.page-header nav .btn:hover,
+.page-header nav .btn[aria-current='page'] {
+  background: #f0d8ab;
+  border-color: #f0d8ab;
+  color: #3e2c22;
+}
+
+.page-header a:focus-visible {
+  outline-color: #fff8eb;
+}
+
+.main-content {
+  max-width: 64rem;
+  margin: 0 auto;
+  padding: 2.5rem 4rem;
+  background: #fffaf0;
+  border-inline: 1px solid #dfcdb0;
+  box-shadow: 0 12px 40px rgba(69, 48, 28, 0.06);
+  overflow-wrap: anywhere;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 400;
+  line-height: 1.3;
+}
+
+.main-content h1 {
+  color: #633d29;
+}
+
+.main-content h2 {
+  margin-top: 2.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #dfcdb0;
+}
+
+.main-content h2::before {
+  content: "";
+  display: inline-block;
+  width: 0.45rem;
+  height: 0.45rem;
+  margin: 0 0.7rem 0.2rem 0.1rem;
+  background: #b5823d;
+  transform: rotate(45deg);
+}
+
+.main-content a {
+  text-decoration: underline;
+}
+
+.main-content a:hover {
+  color: #854328;
+}
+
+.main-content table {
+  margin: 1.25rem 0;
+  font-size: 0.95em;
+}
+
+.main-content table th {
+  background: #ede0c7;
+  color: #543b29;
+  text-align: left;
+}
+
+.main-content table td,
+.main-content table th {
+  padding: 0.75rem 1rem;
+}
+
+.main-content table tr:nth-child(even) {
+  background: #f8f0e2;
+}
+
+.main-content blockquote {
+  padding: 0.75rem 1.25rem;
+  border-left: 4px solid #b5823d;
+  background: #f4ead7;
+  color: #5c4936;
+}
+
+.main-content hr {
+  height: 1px;
+  background: #dfcdb0;
+}
+
+.main-content input[type='checkbox'] {
+  accent-color: #24625c;
+}
+
+.site-footer {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #dfcdb0;
+  color: #78634e;
+  font-size: 0.9rem;
+  letter-spacing: 0.04em;
+}
+
+@media screen and (max-width: 42em) {
+  body > .page-header {
+    padding: 2.5rem 1rem 3.5rem;
+  }
+
+  .page-header .project-tagline {
+    font-size: 1rem;
+  }
+
+  .main-content {
+    padding: 1.75rem 1.25rem;
+    border-inline: 0;
+  }
+
+  .main-content table td,
+  .main-content table th {
+    padding: 0.6rem 0.75rem;
+  }
+}
