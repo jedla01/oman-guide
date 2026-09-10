@@ -17,13 +17,13 @@ Poslední celý den: varianta šnorchlování u ostrovů Daymaniyat nebo program
 | --- | --- |
 | Ráno | Daymaniyat — navržená varianta, nebo Maskat |
 | Odpoledne | Dokončení programu v Maskatu podle času letu |
-| Večer | Vrácení auta a přesun na letiště; odlet v noci na neděli 21. 3. |
+| Večer | Předběžné vrácení auta ve 20:00 v terminálu letiště MCT; odlet v neděli 21. 3. ve 04:15 |
 
 ## K doplnění a ověření
 
 - [ ] Potvrdit rezervaci letu PC831 ve 04:15 dne 21. 3. a naplánovat příjezd na letiště.
 - [ ] Ověřit dostupnost, podmínky a čas návratu výletu na Daymaniyat.
-- [ ] Doplnit místo a čas vrácení auta a uložení zavazadel.
+- [ ] Potvrdit vrácení auta ve 20:00 na letišti MCT a naplánovat zázemí do odletu ve 04:15 ([nabídka pronájmu]({{ '/' | relative_url }}#pronajem-auta)).
 
 ## Rezervace a poznámky
 

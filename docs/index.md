@@ -30,6 +30,12 @@ První návrh našeho okruhu Ománem: pobřeží, poušť, historická města a 
 
 **Maskat → Wadi Shab → Sur / Ras Al Jinz → Wadi Bani Khalid → Sharqiya Sands → Nizwa → Bahla / Jabreen → Jebel Shams → Jebel Akhdar → Maskat**
 
+## Mapa cesty
+
+<iframe src="https://drawonamap.com/embed/#bcxBCsJADAXQu_x1KDOTTCaTq0gXVloRWi1UECq9u1R0IXiA9544wQ-JWTRStqimLWGF10aKiVqslrOqFUIHx22ZQFjghyfmt9QQ605TZU4t7R9yJ90wgPCAC-EOx85WeExNLUWYtZhmCxIJ6wIPhOkCxzwerz02-u7ZuCbKxmYaPnuvXEX_7tpoKkVCqMwqsdjvPozHM7Z2ewE" title="Mapa cesty po Ománu" width="100%" height="420" style="display:block; border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allow="geolocation" allowfullscreen></iframe>
+
+[Otevřít mapu samostatně](https://drawonamap.com/embed/#bcxBCsJADAXQu_x1KDOTTCaTq0gXVloRWi1UECq9u1R0IXiA9544wQ-JWTRStqimLWGF10aKiVqslrOqFUIHx22ZQFjghyfmt9QQ605TZU4t7R9yJ90wgPCAC-EOx85WeExNLUWYtZhmCxIJ6wIPhOkCxzwerz02-u7ZuCbKxmYaPnuvXEX_7tpoKkVCqMwqsdjvPozHM7Z2ewE)
+
 ## Program po dnech
 
 Kliknutím na den otevřete podrobnější pracovní plán.
@@ -68,11 +74,28 @@ Poslední den zůstává otevřený: šnorchlování u ostrovů Daymaniyat, nebo
 - [ ] Doplnit reálné časy přesunů a upravit náročnější dny.
 - [ ] Rezervovat ubytování a případné aktivity.
 - [ ] Ověřit otevírací dobu a dostupnost míst pro termín cesty.
-- [ ] Připravit společnou mapu a seznam věcí s sebou.
+- [x] Přidat společnou mapu cesty.
+- [ ] Připravit seznam věcí s sebou.
 
 ## Cesta a doprava
 
-Návrh počítá s okruhem začínajícím a končícím v Maskatu. Půjčovnu, typ auta, způsob příjezdu do pouště a podmínky horských přesunů ještě doplníme.
+### Pronájem auta {#pronajem-auta}
+
+**Předběžně nalezená nabídka — rezervace nepotvrzená.**
+
+| Údaj | Nabídka |
+| --- | --- |
+| Auto | Suzuki Vitara 4×4 nebo podobné SUV |
+| Počet míst | 5 |
+| Převodovka | Automatická |
+| Zavazadla | 4 zavazadla k odbavení |
+| Kilometry | Bez omezení ujeté vzdálenosti |
+| Místo vyzvednutí a vrácení | Mezinárodní letiště Maskat (MCT), v terminálu |
+| Vyzvednutí | Sobota 13. 3. 2027 v 07:00 |
+| Vrácení | Sobota 20. 3. 2027 ve 20:00 |
+| **Celková cena pronájmu** | **13 755,46 Kč** |
+
+Půjčovnu, odkaz na nabídku a podmínky pro hory a pouštní kemp ještě doplníme.
 
 Časy a vzdálenosti přesunů zatím nejsou ověřené. Podle nich doladíme zejména den s mešitou a Wadi Shab a den s Nizwou, Jabreen / Bahlou a Al Hamrou.
 
@@ -92,13 +115,13 @@ Oblasti noclehů podle návrhu; konkrétní hotely a kemp nejsou zatím vybrané
 
 V noci **20./21. 3.** je plánovaný odlet. Případné zázemí před odjezdem na letiště doplníme podle času letu.
 
-## Místa a mapa
-
-Společnou mapu doplníme podle odsouhlasených zastávek. Návrh míst a otevřené otázky jsou rozepsané na stránkách jednotlivých dní.
-
 ## Rozpočet
 
-Vybrané letenky: **385 € v preferovaném tarifu Saver** za cestu tam i zpět ([rozpis cen]({{ '/lety/' | relative_url }})). Doplnit náklady na auto, ubytování, pouštní kemp, jídlo a aktivity včetně měny.
+| Položka | Cena | Stav |
+| --- | ---: | --- |
+| [Letenky Saver]({{ '/lety/' | relative_url }}) | 385 € | Vybrané, tam i zpět |
+| [Pronájem auta](#pronajem-auta) | 13 755,46 Kč | Předběžná nabídka, za celé auto |
+| Ubytování, pouštní kemp, jídlo a aktivity | Doplnit | — |
 
 ## Praktické poznámky
 

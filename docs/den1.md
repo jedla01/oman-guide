@@ -15,13 +15,13 @@ Přílet do Maskatu vybraným letem **PC830 v 03:10 dne 13. 3.**; prohlídka mě
 
 | Část dne | Návrh |
 | --- | --- |
-| Ráno | Přílet a příjezd do města |
+| Ráno | Přílet; předběžné vyzvednutí auta v 07:00 v terminálu letiště MCT, poté příjezd do města |
 | Odpoledne | Maskat podle času a energie po cestě |
 | Večer | Mutrah a noc v Maskatu |
 
 ## K doplnění a ověření
 
-- [ ] Potvrdit přílet v 03:10 a domluvit čas převzetí auta.
+- [ ] Potvrdit přílet v 03:10 a vyzvednutí auta v 07:00 ([nabídka pronájmu]({{ '/' | relative_url }}#pronajem-auta)).
 - [ ] Vybrat ubytování v Maskatu.
 
 ## Rezervace a poznámky
