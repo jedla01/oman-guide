@@ -26,11 +26,13 @@ Install Ruby and Bundler, then run from the repository root:
 ```sh
 cd docs
 bundle install
-bundle exec jekyll serve
+bundle exec jekyll serve --livereload
 ```
 
 Open the local address printed by Jekyll. Restart the server after changing
 `_config.yml`. The remote theme needs network access when building.
+Saved page and style changes rebuild automatically and refresh the browser.
+Check both desktop and narrow mobile widths when changing the layout.
 
 To build into the root output folder:
 
@@ -40,6 +42,36 @@ bundle exec jekyll build --destination ../_site
 ```
 
 Edit the source in `docs/`; `_site/` contains generated output and is ignored by Git.
+
+## Automatic checks before pushing
+
+With Ruby, Bundler and Python 3.9+ on your PATH, run from the repository root:
+
+```sh
+python scripts/check-site.py
+```
+
+This builds the production site with a repository base path and checks generated
+HTML for broken internal links, missing images, missing anchors, missing image
+alt attributes and inconsistent table column counts. It also checks staged and
+unstaged changes for whitespace errors. External websites, CSS image URLs and
+visual appearance are not checked; use the browser preview for layout review.
+
+Enable the automatic pre-push check once per clone:
+
+```sh
+git config core.hooksPath .githooks
+```
+
+A failed check blocks `git push`. The hook checks the current working tree, so
+commit the changes you reviewed before pushing. It requires network access to
+download the remote theme. Git clients must have Ruby and Python on their PATH.
+If you already use custom hooks, merge this pre-push command into them instead
+of replacing your hooks path. To disable this hook configuration:
+
+```sh
+git config --unset core.hooksPath
+```
 
 ## GitHub Pages
 
