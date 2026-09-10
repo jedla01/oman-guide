@@ -34,8 +34,6 @@ První návrh našeho okruhu Ománem: pobřeží, poušť, historická města a 
 
 <iframe src="https://drawonamap.com/embed/#bcxBCsJADAXQu_x1KDOTTCaTq0gXVloRWi1UECq9u1R0IXiA9544wQ-JWTRStqimLWGF10aKiVqslrOqFUIHx22ZQFjghyfmt9QQ605TZU4t7R9yJ90wgPCAC-EOx85WeExNLUWYtZhmCxIJ6wIPhOkCxzwerz02-u7ZuCbKxmYaPnuvXEX_7tpoKkVCqMwqsdjvPozHM7Z2ewE" title="Mapa cesty po Ománu" width="100%" height="420" style="display:block; border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allow="geolocation" allowfullscreen></iframe>
 
-[Otevřít mapu samostatně](https://drawonamap.com/embed/#bcxBCsJADAXQu_x1KDOTTCaTq0gXVloRWi1UECq9u1R0IXiA9544wQ-JWTRStqimLWGF10aKiVqslrOqFUIHx22ZQFjghyfmt9QQ605TZU4t7R9yJ90wgPCAC-EOx85WeExNLUWYtZhmCxIJ6wIPhOkCxzwerz02-u7ZuCbKxmYaPnuvXEX_7tpoKkVCqMwqsdjvPozHM7Z2ewE)
-
 ## Program po dnech
 
 Kliknutím na den otevřete podrobnější pracovní plán.
@@ -70,7 +68,7 @@ Poslední den zůstává otevřený: šnorchlování u ostrovů Daymaniyat, nebo
 - [ ] Potvrdit rezervaci a letový řád vybraných letů.
 - [ ] Ověřit aktuální podmínky vstupu a potřebné doklady.
 - [ ] Zajistit cestovní pojištění.
-- [ ] Vybrat auto a ověřit podmínky pro cestu do hor a pouštního kempu.
+- [ ] Potvrdit rezervaci auta a ověřit podmínky pro cestu do hor a pouštního kempu.
 - [ ] Doplnit reálné časy přesunů a upravit náročnější dny.
 - [ ] Rezervovat ubytování a případné aktivity.
 - [ ] Ověřit otevírací dobu a dostupnost míst pro termín cesty.
@@ -83,19 +81,28 @@ Poslední den zůstává otevřený: šnorchlování u ostrovů Daymaniyat, nebo
 
 **Předběžně nalezená nabídka — rezervace nepotvrzená.**
 
+**Potřebujeme prostornější auto pro všechny cestující a zavazadla — vůz bude plně naložený.** Před rezervací ověříme prostor pro zavazadla při obsazení potřebného počtu sedadel.
+
 | Údaj | Nabídka |
 | --- | --- |
-| Auto | Suzuki Vitara 4×4 nebo podobné SUV |
-| Počet míst | 5 |
+| Půjčovna | Europcar |
+| Auto | Toyota Prado 4WD nebo podobné, kategorie Premium |
+| Počet míst / dveří | 7 / 5 |
 | Převodovka | Automatická |
-| Zavazadla | 4 zavazadla k odbavení |
+| Klimatizace | Ano |
+| Výkon dle nabídky | 120 kW / 160 CV |
+| Zavazadla | 3 |
+| Minimální věk řidiče | 21 let |
 | Kilometry | Bez omezení ujeté vzdálenosti |
-| Místo vyzvednutí a vrácení | Mezinárodní letiště Maskat (MCT), v terminálu |
+| Základní ochrana | V ceně |
+| Místo vyzvednutí a vrácení | Letiště Maskat (MCT) |
 | Vyzvednutí | Sobota 13. 3. 2027 v 07:00 |
 | Vrácení | Sobota 20. 3. 2027 ve 20:00 |
-| **Celková cena pronájmu** | **13 755,46 Kč** |
+| Pronájem | 1 042,62 € |
+| Připojištění | 16,25 € / den; celkem dle nabídky 129,98 € |
+| **Celkem včetně připojištění** | **1 172,60 €** |
 
-Půjčovnu, odkaz na nabídku a podmínky pro hory a pouštní kemp ještě doplníme.
+Odkaz na nabídku, přesné místo předání, rozsah připojištění a podmínky pro hory a pouštní kemp ještě ověříme. Pro součet používáme uvedenou cenu připojištění; 8 × denní sazba vychází o 0,02 € více.
 
 Časy a vzdálenosti přesunů zatím nejsou ověřené. Podle nich doladíme zejména den s mešitou a Wadi Shab a den s Nizwou, Jabreen / Bahlou a Al Hamrou.
 
@@ -120,7 +127,7 @@ V noci **20./21. 3.** je plánovaný odlet. Případné zázemí před odjezdem 
 | Položka | Cena | Stav |
 | --- | ---: | --- |
 | [Letenky Saver]({{ '/lety/' | relative_url }}) | 385 € | Vybrané, tam i zpět |
-| [Pronájem auta](#pronajem-auta) | 13 755,46 Kč | Předběžná nabídka, za celé auto |
+| [Pronájem auta](#pronajem-auta) | 1 172,60 € | Europcar, za celé auto včetně připojištění; rezervace nepotvrzená |
 | Ubytování, pouštní kemp, jídlo a aktivity | Doplnit | — |
 
 ## Praktické poznámky
