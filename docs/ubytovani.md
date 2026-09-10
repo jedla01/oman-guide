@@ -20,4 +20,4 @@ Oblasti noclehů podle návrhu; konkrétní hotely a kemp nejsou zatím vybrané
 
 V noci **20./21. 3.** je plánovaný odlet. Případné zázemí před odjezdem na letiště doplníme podle času letu.
 
-[← Přehled cesty]({{ '/' | relative_url }})
+[← Přehled]({{ '/' | relative_url }})

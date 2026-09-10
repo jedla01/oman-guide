@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Pronájem auta
+title: Auto
 permalink: /auto/
 nav_order: 1.6
 ---
-# Pronájem auta
+# Auto
 
 **Předběžně nalezená nabídka — rezervace nepotvrzená.**
 
@@ -31,4 +31,4 @@ nav_order: 1.6
 
 Odkaz na nabídku, přesné místo předání, rozsah připojištění a podmínky pro hory a pouštní kemp ještě ověříme. Pro součet používáme uvedenou cenu připojištění; 8 × denní sazba vychází o 0,02 € více.
 
-[← Přehled cesty]({{ '/' | relative_url }})
+[← Přehled]({{ '/' | relative_url }})

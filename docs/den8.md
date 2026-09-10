@@ -32,4 +32,4 @@ Poslední celý den: varianta šnorchlování u ostrovů Daymaniyat nebo program
 
 Pracovní návrh — konkrétní časy, rezervace, náklady a odkazy na mapu zatím doplníme.
 
-[← Den 7]({{ '/7den/' | relative_url }}) · [Přehled cesty]({{ '/' | relative_url }})
+[← Den 7]({{ '/7den/' | relative_url }}) · [Přehled]({{ '/' | relative_url }})

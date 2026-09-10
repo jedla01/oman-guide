@@ -23,4 +23,4 @@ nav_order: 1.5
 
 Místní časy; délky letů a ceny dle podkladu. *Zpáteční přestup podle časů 08:35–12:45; v podkladu 4 h.
 
-[Přehled cesty]({{ '/' | relative_url }}) · [Den 1]({{ '/1den/' | relative_url }}) · [Den 8]({{ '/8den/' | relative_url }})
+[Přehled]({{ '/' | relative_url }}) · [Den 1]({{ '/1den/' | relative_url }}) · [Den 8]({{ '/8den/' | relative_url }})

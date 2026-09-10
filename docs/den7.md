@@ -32,4 +32,4 @@ Vesnice a terasy na Jebel Akhdar, poté návrat do Maskatu. Pátek je vyhrazen p
 
 Pracovní návrh — konkrétní časy, rezervace, náklady a odkazy na mapu zatím doplníme.
 
-[← Den 6]({{ '/6den/' | relative_url }}) · [Přehled cesty]({{ '/' | relative_url }}) · [Den 8 →]({{ '/8den/' | relative_url }})
+[← Den 6]({{ '/6den/' | relative_url }}) · [Přehled]({{ '/' | relative_url }}) · [Den 8 →]({{ '/8den/' | relative_url }})

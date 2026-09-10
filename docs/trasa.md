@@ -24,4 +24,4 @@ Poslední den zůstává otevřený: šnorchlování u ostrovů Daymaniyat, nebo
 
 [Program po dnech]({{ '/' | relative_url }}#program-po-dnech)
 
-[← Přehled cesty]({{ '/' | relative_url }})
+[← Přehled]({{ '/' | relative_url }})

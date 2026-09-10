@@ -30,8 +30,8 @@ Balcony Walk na Jebel Shams a následný přesun na Jebel Akhdar.
 
 [Trasa a mapa]({{ '/trasa/' | relative_url }}).
 
-[Březnové teploty v horách a oblečení s sebou]({{ '/oman/' | relative_url }}#breznove-teploty).
+[Březnové teploty v horách a oblečení s sebou]({{ '/prakticke/' | relative_url }}#breznove-teploty).
 
 Pracovní návrh — konkrétní časy, rezervace, náklady a odkazy na mapu zatím doplníme.
 
-[← Den 5]({{ '/5den/' | relative_url }}) · [Přehled cesty]({{ '/' | relative_url }}) · [Den 7 →]({{ '/7den/' | relative_url }})
+[← Den 5]({{ '/5den/' | relative_url }}) · [Přehled]({{ '/' | relative_url }}) · [Den 7 →]({{ '/7den/' | relative_url }})

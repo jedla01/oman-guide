@@ -32,4 +32,4 @@ Velká mešita v Maskatu, Bimmah Sinkhole a Wadi Shab; noc v oblasti Sur nebo Ra
 
 Pracovní návrh — konkrétní časy, rezervace, náklady a odkazy na mapu zatím doplníme.
 
-[← Den 1]({{ '/1den/' | relative_url }}) · [Přehled cesty]({{ '/' | relative_url }}) · [Den 3 →]({{ '/3den/' | relative_url }})
+[← Den 1]({{ '/1den/' | relative_url }}) · [Přehled]({{ '/' | relative_url }}) · [Den 3 →]({{ '/3den/' | relative_url }})

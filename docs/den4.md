@@ -32,4 +32,4 @@ Východ slunce v Sharqiya Sands, poté přesun do Nizwy s možnou zastávkou v I
 
 Pracovní návrh — konkrétní časy, rezervace, náklady a odkazy na mapu zatím doplníme.
 
-[← Den 3]({{ '/3den/' | relative_url }}) · [Přehled cesty]({{ '/' | relative_url }}) · [Den 5 →]({{ '/5den/' | relative_url }})
+[← Den 3]({{ '/3den/' | relative_url }}) · [Přehled]({{ '/' | relative_url }}) · [Den 5 →]({{ '/5den/' | relative_url }})

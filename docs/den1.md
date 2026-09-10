@@ -31,4 +31,4 @@ Přílet do Maskatu vybraným letem **PC830 v 03:10 dne 13. 3.**; prohlídka mě
 
 Pracovní návrh — konkrétní časy, rezervace, náklady a odkazy na mapu zatím doplníme.
 
-[Přehled cesty]({{ '/' | relative_url }}) · [Den 2 →]({{ '/2den/' | relative_url }})
+[Přehled]({{ '/' | relative_url }}) · [Den 2 →]({{ '/2den/' | relative_url }})

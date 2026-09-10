@@ -31,4 +31,4 @@ Ze Sur přes Wadi Bani Khalid do pouště Sharqiya Sands.
 
 Pracovní návrh — konkrétní časy, rezervace, náklady a odkazy na mapu zatím doplníme.
 
-[← Den 2]({{ '/2den/' | relative_url }}) · [Přehled cesty]({{ '/' | relative_url }}) · [Den 4 →]({{ '/4den/' | relative_url }})
+[← Den 2]({{ '/2den/' | relative_url }}) · [Přehled]({{ '/' | relative_url }}) · [Den 4 →]({{ '/4den/' | relative_url }})

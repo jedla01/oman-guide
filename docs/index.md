@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Přehled cesty
+title: Přehled
 nav_order: 1
 ---
 # Omán 2027
@@ -29,7 +29,7 @@ První návrh našeho okruhu Ománem: pobřeží, poušť, historická města a 
 ## Podrobnosti cesty
 
 - [Trasa a mapa]({{ '/trasa/' | relative_url }})
-- [Pronájem auta]({{ '/auto/' | relative_url }})
+- [Auto]({{ '/auto/' | relative_url }})
 - [Ubytování]({{ '/ubytovani/' | relative_url }})
 - [Rozpočet]({{ '/rozpocet/' | relative_url }})
 
@@ -68,8 +68,10 @@ Neděle **21. 3.** je den nočního odletu, bez dalšího plánovaného programu
 
 ## Praktické poznámky
 
-[O Ománu — stručná historie, místní zvyklosti a klima]({{ '/oman/' | relative_url }})
+[Praktické — zásuvky, peníze a příprava na cestu]({{ '/prakticke/' | relative_url }})
 
-[Březnové teploty na trase]({{ '/oman/' | relative_url }}#breznove-teploty) · [Doporučené oblečení]({{ '/oman/' | relative_url }}#obleceni)
+[Historie země — stručná historie, místní zvyklosti a klima]({{ '/oman/' | relative_url }})
+
+[Březnové teploty na trase]({{ '/prakticke/' | relative_url }}#breznove-teploty) · [Doporučené oblečení]({{ '/prakticke/' | relative_url }}#obleceni)
 
 Doplnit kontakty a zbývající výbavu.

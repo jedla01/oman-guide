@@ -30,8 +30,8 @@ Pevnost v Nizwě, Jabreen / Bahla a Al Hamra; poté přesun na Jebel Shams.
 
 [Trasa a mapa]({{ '/trasa/' | relative_url }}).
 
-[Březnové teploty v horách a oblečení s sebou]({{ '/oman/' | relative_url }}#breznove-teploty).
+[Březnové teploty v horách a oblečení s sebou]({{ '/prakticke/' | relative_url }}#breznove-teploty).
 
 Pracovní návrh — konkrétní časy, rezervace, náklady a odkazy na mapu zatím doplníme.
 
-[← Den 4]({{ '/4den/' | relative_url }}) · [Přehled cesty]({{ '/' | relative_url }}) · [Den 6 →]({{ '/6den/' | relative_url }})
+[← Den 4]({{ '/4den/' | relative_url }}) · [Přehled]({{ '/' | relative_url }}) · [Den 6 →]({{ '/6den/' | relative_url }})

@@ -9,7 +9,7 @@ nav_order: 1.8
 | Položka | Cena | Stav |
 | --- | ---: | --- |
 | [Letenky Saver]({{ '/lety/' | relative_url }}) | 385 € | Vybrané, tam i zpět |
-| [Pronájem auta]({{ '/auto/' | relative_url }}) | 1 172,60 € | Europcar, za celé auto včetně připojištění; rezervace nepotvrzená |
+| [Auto]({{ '/auto/' | relative_url }}) | 1 172,60 € | Europcar, za celé auto včetně připojištění; rezervace nepotvrzená |
 | Ubytování, pouštní kemp, jídlo a aktivity | Doplnit | — |
 
-[← Přehled cesty]({{ '/' | relative_url }})
+[← Přehled]({{ '/' | relative_url }})
