@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Den 7
+nav_group: days
 permalink: /7den/
 nav_order: 8
 ---
 # Den 7 — Jebel Akhdar a návrat do Maskatu
 
 **Datum:** pátek 19. března 2027  
-**Plánovaný nocleh:** Maskat
+**[Plánovaný nocleh]({{ '/ubytovani/' | relative_url }}):** Maskat
 
 Vesnice a terasy na Jebel Akhdar, poté návrat do Maskatu. Pátek je vyhrazen především venkovnímu programu.
 
@@ -26,6 +27,8 @@ Vesnice a terasy na Jebel Akhdar, poté návrat do Maskatu. Pátek je vyhrazen p
 - [ ] Případné kulturní zastávky doplnit až po ověření páteční otevírací doby.
 
 ## Rezervace a poznámky
+
+[Trasa a mapa]({{ '/trasa/' | relative_url }}).
 
 Pracovní návrh — konkrétní časy, rezervace, náklady a odkazy na mapu zatím doplníme.
 

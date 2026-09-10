@@ -92,13 +92,35 @@ body > .page-header {
 
 .page-header nav {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+  flex-direction: column;
   gap: 0.6rem;
   max-width: 64rem;
   margin: 0 auto;
   padding: 1rem 1.5rem;
 }
+
+.nav-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.6rem;
+  min-width: 0;
+}
+
+.nav-row--days {
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  overflow-x: auto;
+  padding: 0.4rem;
+}
+
+.nav-row--days .btn {
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+.page-header .nav-row--days .btn:first-child { margin-left: auto; }
+.page-header .nav-row--days .btn:last-child { margin-right: auto; }
 
 .page-header nav .btn {
   display: inline-flex;

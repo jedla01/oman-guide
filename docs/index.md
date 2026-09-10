@@ -26,13 +26,12 @@ První návrh našeho okruhu Ománem: pobřeží, poušť, historická města a 
 
 [Vybrané lety a ceny tarifů — Pegasus Airlines]({{ '/lety/' | relative_url }})
 
-## Trasa
+## Podrobnosti cesty
 
-**Maskat → Wadi Shab → Sur / Ras Al Jinz → Wadi Bani Khalid → Sharqiya Sands → Nizwa → Bahla / Jabreen → Jebel Shams → Jebel Akhdar → Maskat**
-
-## Mapa cesty
-
-<iframe src="https://drawonamap.com/embed/#bcxBCsJADAXQu_x1KDOTTCaTq0gXVloRWi1UECq9u1R0IXiA9544wQ-JWTRStqimLWGF10aKiVqslrOqFUIHx22ZQFjghyfmt9QQ605TZU4t7R9yJ90wgPCAC-EOx85WeExNLUWYtZhmCxIJ6wIPhOkCxzwerz02-u7ZuCbKxmYaPnuvXEX_7tpoKkVCqMwqsdjvPozHM7Z2ewE" title="Mapa cesty po Ománu" width="100%" height="420" style="display:block; border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allow="geolocation" allowfullscreen></iframe>
+- [Trasa a mapa]({{ '/trasa/' | relative_url }})
+- [Pronájem auta]({{ '/auto/' | relative_url }})
+- [Ubytování]({{ '/ubytovani/' | relative_url }})
+- [Rozpočet]({{ '/rozpocet/' | relative_url }})
 
 ## Program po dnech
 
@@ -51,14 +50,6 @@ Kliknutím na den otevřete podrobnější pracovní plán.
 
 Neděle **21. 3.** je den nočního odletu, bez dalšího plánovaného programu v Ománu.
 
-## Rozvržení trasy
-
-Nizwa Souq a pevnost jsou zařazené před pátkem 19. března. Páteční program tvoří především vesnice, terasy a vyhlídky na Jebel Akhdar a návrat do Maskatu; konkrétní otevírací dobu kulturních míst ještě ověříme.
-
-Jebel Akhdar v návrhu ponecháváme také kvůli možnosti vidět růžové terasy. Kvetení v našem termínu a přístup k terasám zatím nejsou ověřené.
-
-Poslední den zůstává otevřený: šnorchlování u ostrovů Daymaniyat, nebo program v Maskatu podle možností a času odletu.
-
 ## Před odjezdem
 
 - [x] Stanovit termín: 13.–21. 3. 2027.
@@ -75,61 +66,10 @@ Poslední den zůstává otevřený: šnorchlování u ostrovů Daymaniyat, nebo
 - [x] Přidat společnou mapu cesty.
 - [ ] Připravit seznam věcí s sebou.
 
-## Cesta a doprava
-
-### Pronájem auta {#pronajem-auta}
-
-**Předběžně nalezená nabídka — rezervace nepotvrzená.**
-
-**Potřebujeme prostornější auto pro všechny cestující a zavazadla — vůz bude plně naložený.** Před rezervací ověříme prostor pro zavazadla při obsazení potřebného počtu sedadel.
-
-| Údaj | Nabídka |
-| --- | --- |
-| Půjčovna | Europcar |
-| Auto | Toyota Prado 4WD nebo podobné, kategorie Premium |
-| Počet míst / dveří | 7 / 5 |
-| Převodovka | Automatická |
-| Klimatizace | Ano |
-| Výkon dle nabídky | 120 kW / 160 CV |
-| Zavazadla | 3 |
-| Minimální věk řidiče | 21 let |
-| Kilometry | Bez omezení ujeté vzdálenosti |
-| Základní ochrana | V ceně |
-| Místo vyzvednutí a vrácení | Letiště Maskat (MCT) |
-| Vyzvednutí | Sobota 13. 3. 2027 v 07:00 |
-| Vrácení | Sobota 20. 3. 2027 ve 20:00 |
-| Pronájem | 1 042,62 € |
-| Připojištění | 16,25 € / den; celkem dle nabídky 129,98 € |
-| **Celkem včetně připojištění** | **1 172,60 €** |
-
-Odkaz na nabídku, přesné místo předání, rozsah připojištění a podmínky pro hory a pouštní kemp ještě ověříme. Pro součet používáme uvedenou cenu připojištění; 8 × denní sazba vychází o 0,02 € více.
-
-Časy a vzdálenosti přesunů zatím nejsou ověřené. Podle nich doladíme zejména den s mešitou a Wadi Shab a den s Nizwou, Jabreen / Bahlou a Al Hamrou.
-
-## Ubytování
-
-Oblasti noclehů podle návrhu; konkrétní hotely a kemp nejsou zatím vybrané.
-
-| Noc | Oblast | Ubytování |
-| --- | --- | --- |
-| 13.–14. 3. | Maskat | Doplnit |
-| 14.–15. 3. | Ras Al Jinz / Sur | Doplnit |
-| 15.–16. 3. | Sharqiya Sands | Doplnit |
-| 16.–17. 3. | Nizwa | Doplnit |
-| 17.–18. 3. | Jebel Shams | Doplnit |
-| 18.–19. 3. | Jebel Akhdar | Doplnit |
-| 19.–20. 3. | Maskat | Doplnit |
-
-V noci **20./21. 3.** je plánovaný odlet. Případné zázemí před odjezdem na letiště doplníme podle času letu.
-
-## Rozpočet
-
-| Položka | Cena | Stav |
-| --- | ---: | --- |
-| [Letenky Saver]({{ '/lety/' | relative_url }}) | 385 € | Vybrané, tam i zpět |
-| [Pronájem auta](#pronajem-auta) | 1 172,60 € | Europcar, za celé auto včetně připojištění; rezervace nepotvrzená |
-| Ubytování, pouštní kemp, jídlo a aktivity | Doplnit | — |
-
 ## Praktické poznámky
 
-Doplnit ověřené informace pro březen 2027, kontakty a poznámky k balení.
+[O Ománu — stručná historie, místní zvyklosti a klima]({{ '/oman/' | relative_url }})
+
+[Březnové teploty na trase]({{ '/oman/' | relative_url }}#breznove-teploty) · [Doporučené oblečení]({{ '/oman/' | relative_url }}#obleceni)
+
+Doplnit kontakty a zbývající výbavu.

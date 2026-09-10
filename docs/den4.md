@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Den 4
+nav_group: days
 permalink: /4den/
 nav_order: 5
 ---
 # Den 4 — Východ slunce v poušti a Nizwa
 
 **Datum:** úterý 16. března 2027  
-**Plánovaný nocleh:** Nizwa
+**[Plánovaný nocleh]({{ '/ubytovani/' | relative_url }}):** Nizwa
 
 Východ slunce v Sharqiya Sands, poté přesun do Nizwy s možnou zastávkou v Ibra nebo Birkat Al Mouz.
 
@@ -26,6 +27,8 @@ Východ slunce v Sharqiya Sands, poté přesun do Nizwy s možnou zastávkou v I
 - [ ] Vybrat ubytování v Nizwě.
 
 ## Rezervace a poznámky
+
+[Trasa a mapa]({{ '/trasa/' | relative_url }}).
 
 Pracovní návrh — konkrétní časy, rezervace, náklady a odkazy na mapu zatím doplníme.
 
