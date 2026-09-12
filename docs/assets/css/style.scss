@@ -108,9 +108,6 @@ body > .page-header {
 }
 
 .nav-row--days {
-  flex-wrap: nowrap;
-  justify-content: flex-start;
-  overflow-x: auto;
   padding: 0.4rem;
 }
 
@@ -119,13 +116,11 @@ body > .page-header {
   white-space: nowrap;
 }
 
-.page-header .nav-row--days .btn:first-child { margin-left: auto; }
-.page-header .nav-row--days .btn:last-child { margin-right: auto; }
-
 .page-header nav .btn {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  width: auto;
   min-height: 44px;
   margin: 0;
   padding: 0.6rem 1rem;

@@ -10,7 +10,7 @@ nav_order: 1.3
 
 ## Mapa cesty
 
-<iframe src="https://drawonamap.com/embed/#bcxBCsJADAXQu_x1KDOTTCaTq0gXVloRWi1UECq9u1R0IXiA9544wQ-JWTRStqimLWGF10aKiVqslrOqFUIHx22ZQFjghyfmt9QQ605TZU4t7R9yJ90wgPCAC-EOx85WeExNLUWYtZhmCxIJ6wIPhOkCxzwerz02-u7ZuCbKxmYaPnuvXEX_7tpoKkVCqMwqsdjvPozHM7Z2ewE" title="Mapa cesty po Ománu" width="100%" height="420" style="display:block; border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allow="geolocation" allowfullscreen></iframe>
+<iframe src="https://drawonamap.com/embed/m/9lvWDTCq" title="Draw on a Map embed" width="100%" height="420" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allow="geolocation" allowfullscreen></iframe>
 
 ## Rozvržení trasy
 
