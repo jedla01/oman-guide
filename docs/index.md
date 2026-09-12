@@ -22,6 +22,25 @@ První návrh našeho okruhu Ománem: pobřeží, poušť, historická města a 
 | Přílet | Maskat, sobota 13. 3. v 03:10 — PC830 |
 | Odlet | Maskat, neděle 21. 3. v 04:15 — PC831 |
 
+## Ramadán a svátek Íd al-fitr
+
+**Naše cesta podle předběžného kalendáře vychází až po ramadánu, přílet však může připadnout na závěr svátečního volna.**
+
+Ramadán je muslimský měsíc půstu, modliteb a dobročinnosti. Postící se muslimové během dne od úsvitu do západu slunce nejedí ani nepijí; jeho konec slaví svátkem **Íd al-fitr (Eid al-Fitr)**.
+
+| Událost | Předpokládaný termín v Ománu v roce 2027 |
+| --- | --- |
+| První den půstu | 8. února |
+| Poslední den půstu | 9. března |
+| Íd al-fitr — začátek svátku | 10. března |
+| Navazující sváteční volno podle kalendáře | 11.–13. března |
+
+Termíny jsou **orientační**, nikoli oficiálně potvrzené pro rok 2027; začátek a konec ramadánu se v Ománu určují podle pozorování měsíčního srpku. Před cestou ověříme i vyhlášené sváteční volno. [Předběžný kalendář Ománu 2027](https://www.timeanddate.com/holidays/oman/2027).
+
+**Pro náš plán:** ověřit sváteční otevírací dobu v Maskatu a Mutrah a potvrdit dostupnost služeb při příletu. Ramadánový denní půst už podle tohoto odhadu do našeho pobytu nezasáhne.
+
+Při případné cestě během ramadánu se na veřejnosti za dne nejí, nepije ani nekouří, a to ani jako návštěvník; restaurace a obchody mohou mít upravenou otevírací dobu. [Doporučení ománského ministerstva zahraničí](https://www.fm.gov.om/en/visitors/travel-advice-for-visitors/) · [Praktické informace k ramadánu](https://www.gov.uk/foreign-travel-advice/oman/safety-and-security#ramadan).
+
 ## Lety
 
 [Vybrané lety a ceny tarifů — Pegasus Airlines]({{ '/lety/' | relative_url }})
