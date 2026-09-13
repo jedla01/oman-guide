@@ -27,6 +27,8 @@ nav_order: 1
 
 **Pegasus Airlines · Saver preferovaný · Rezervace nepotvrzená**
 
+[Pegasus](https://www.flypgs.com/en/about-pegasus/why-pegasus) je turecká nízkonákladová letecká společnost.
+
 | Směr | Datum odletu | Let | Odkud | Odlet | Kam | Přílet | Délka letu | Přestup v SAW |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Tam | 12. 3. 2027 | PC302 | PRG – Praha | 14:25 | SAW – Istanbul Sabiha | 19:05 | 2 h 40 min | 2 h 25 min |
@@ -41,6 +43,16 @@ nav_order: 1
 | **Celkem** | **319 €** | **385 €** |
 
 Místní časy; délky letů a ceny dle podkladu. *Zpáteční přestup podle časů 08:35–12:45; v podkladu 4 h.
+
+### Zavazadla podle tarifu
+
+| Zavazadlo v ceně | Light | **Saver · preferovaný** |
+| --- | --- | --- |
+| Taška pod sedadlo | 1 kus, 40 × 30 × 15 cm, max. 3 kg | 1 kus, 40 × 30 × 15 cm, max. 3 kg |
+| Kabinové zavazadlo | Není v ceně | 1 kus, 55 × 40 × 23 cm, max. 8 kg |
+| Odbavené zavazadlo | Není v ceně | Do 20 kg |
+
+**K Light lze při výběru zavazadel přikoupit kabinové zavazadlo a/nebo 12 kg odbaveného zavazadla. Cenu příplatků pro naše lety ještě ověříme a porovnáme se Saver.** Kabinové zavazadlo lze přidat podle dostupné kapacity letu. [Pravidla zavazadel Pegasus](https://www.flypgs.com/en/pegasus-baggage-allowance) · [Rozměry a limity](https://www.flypgs.com/en/useful-info/info-about-flights/general-rules).
 
 ## Půjčení auta {#auto}
 
@@ -86,6 +98,7 @@ Konkrétní hotely a kemp zatím nejsou vybrané. Podrobný plán otevřete klik
 - [x] Stanovit termín a připravit návrh okruhu s mapou a noclehy.
 - [x] Vybrat lety a preferovaný tarif Saver.
 - [ ] Doplnit účastníky a rozpočet na ubytování, jídlo a aktivity.
+- [ ] Ověřit cenu přidání kabinového a/nebo 12 kg odbaveného zavazadla k Light a porovnat se Saver.
 - [ ] Potvrdit rezervaci a letový řád vybraných letů.
 - [ ] Ověřit podmínky vstupu, potřebné doklady a zajistit cestovní pojištění.
 - [ ] Rezervovat auto; ověřit zavazadlový prostor, pojištění a podmínky pro hory a pouštní kemp.
