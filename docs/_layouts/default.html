@@ -19,20 +19,11 @@
       </div>
       <nav aria-label="Hlavní navigace">
         {% assign navigation_pages = site.pages | sort: 'nav_order' %}
-        <div class="nav-row">
-          {% for navigation_page in navigation_pages %}
-            {% if navigation_page.nav_order and navigation_page.nav_group != 'days' %}
-              <a class="btn" href="{{ navigation_page.url | relative_url }}"{% if page.url == navigation_page.url %} aria-current="page"{% endif %}>{{ navigation_page.title | escape }}</a>
-            {% endif %}
-          {% endfor %}
-        </div>
-        <div class="nav-row nav-row--days" role="group" aria-label="Program po dnech">
-          {% for navigation_page in navigation_pages %}
-            {% if navigation_page.nav_order and navigation_page.nav_group == 'days' %}
-              <a class="btn" href="{{ navigation_page.url | relative_url }}"{% if page.url == navigation_page.url %} aria-current="page"{% endif %}>{{ navigation_page.title | escape }}</a>
-            {% endif %}
-          {% endfor %}
-        </div>
+        {% for navigation_page in navigation_pages %}
+          {% if navigation_page.nav_order %}
+            <a class="btn" href="{{ navigation_page.url | relative_url }}"{% if page.url == navigation_page.url %} aria-current="page"{% endif %}>{{ navigation_page.title | escape }}</a>
+          {% endif %}
+        {% endfor %}
       </nav>
     </header>
 
