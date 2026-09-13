@@ -36,23 +36,42 @@ nav_order: 1
 | Zpět | 21. 3. 2027 | PC831 | MCT – Maskat | 04:15 | SAW – Istanbul Sabiha | 08:35 | 5 h 20 min | 4 h 10 min* |
 | Zpět | 21. 3. 2027 | PC301 | SAW – Istanbul Sabiha | 12:45 | PRG – Praha | 13:30 | 2 h 45 min | — |
 
-| Cena za celý směr | Light | **Saver · preferovaný** |
-| --- | ---: | ---: |
-| Praha → Maskat | 164 € | **197 €** |
-| Maskat → Praha | 155 € | **188 €** |
-| **Celkem** | **319 €** | **385 €** |
+Místní časy; délky letů dle podkladu. *Zpáteční přestup podle časů 08:35–12:45; v podkladu 4 h.
 
-Místní časy; délky letů a ceny dle podkladu. *Zpáteční přestup podle časů 08:35–12:45; v podkladu 4 h.
+### Tarify a zavazadla
 
-### Zavazadla podle tarifu
+Ceny za osobu; celá cesta zahrnuje 4 lety. Výběr konkrétních sedadel není zahrnutý.
 
-| Zavazadlo v ceně | Light | **Saver · preferovaný** |
+| Položka | Light | Light + kabinové 8 kg | **Saver · preferovaný** |
+| --- | --- | --- | --- |
+| Taška pod sedadlo | 1 kus, 3 kg; 40 × 30 × 15 cm | 1 kus, 3 kg; 40 × 30 × 15 cm | 1 kus, 3 kg; 40 × 30 × 15 cm |
+| Kabinové zavazadlo | Není v ceně | 1 kus, 8 kg; 55 × 40 × 23 cm | 1 kus, 8 kg; 55 × 40 × 23 cm |
+| Odbavené zavazadlo | Není v ceně | Není v ceně | **20 kg** |
+| Praha → Maskat, celý směr | 164 € | 194 € (164 + 30) | **197 €** |
+| Maskat → Praha, celý směr | 147 € | 177 € (147 + 30) | **180 €** |
+| **Celkem tam i zpět** | **311 €** | **371 € (311 + 2 × 30)** | **377 €** |
+
+### Dokoupení zavazadel k Light
+
+| Přidané zavazadlo | Cena za osobu | Účtování | Příplatek za celou cestu |
+| --- | ---: | --- | ---: |
+| Odbavené 12 kg | 30 € | Za let, dle původního podkladu | 120 € (4 lety) |
+| Odbavené 20 kg | 62 € | Za let, dle původního podkladu | 248 € (4 lety) |
+| Kabinové 8 kg, 55 × 40 × 23 cm | 30 € | **Za celý směr včetně přestupu** | **60 € (2 směry)** |
+
+Ceny dle dodaného podkladu. Kabinové zavazadlo lze přidat podle dostupné kapacity letu. [Pravidla zavazadel Pegasus](https://www.flypgs.com/en/pegasus-baggage-allowance) · [Rozměry a limity](https://www.flypgs.com/en/useful-info/info-about-flights/general-rules).
+
+### Výběr sedadel
+
+**U tarifů Light i Saver je výběr konkrétního sedadla vždy za příplatek, za osobu a jednotlivý let. Máme celkem 4 lety; při výběru na celé cestě se platí čtyřikrát.**
+
+| Sedadlo | Cena za osobu a let | Celkem za osobu na 4 lety |
 | --- | --- | --- |
-| Taška pod sedadlo | 1 kus, 40 × 30 × 15 cm, max. 3 kg | 1 kus, 40 × 30 × 15 cm, max. 3 kg |
-| Kabinové zavazadlo | Není v ceně | 1 kus, 55 × 40 × 23 cm, max. 8 kg |
-| Odbavené zavazadlo | Není v ceně | Do 20 kg |
+| Standardní | Rozsah ověřit: v podkladu 8,99–1,99 | Doplnit po ověření |
+| Přední řady | 11,99–12,99 | 47,96–51,96 |
+| Ostatní dražší místa | Vyšší cena dle výběru | Dle vybraných sedadel |
 
-**K Light lze při výběru zavazadel přikoupit kabinové zavazadlo a/nebo 12 kg odbaveného zavazadla. Cenu příplatků pro naše lety ještě ověříme a porovnáme se Saver.** Kabinové zavazadlo lze přidat podle dostupné kapacity letu. [Pravidla zavazadel Pegasus](https://www.flypgs.com/en/pegasus-baggage-allowance) · [Rozměry a limity](https://www.flypgs.com/en/useful-info/info-about-flights/general-rules).
+Měnu cen sedadel a rozsah standardních míst ještě potvrdíme. Součet pro přední řady předpokládá uvedené rozpětí na všech čtyřech letech; příplatky nejsou zahrnuté v cenách letenek výše.
 
 ## Půjčení auta {#auto}
 
@@ -98,7 +117,6 @@ Konkrétní hotely a kemp zatím nejsou vybrané. Podrobný plán otevřete klik
 - [x] Stanovit termín a připravit návrh okruhu s mapou a noclehy.
 - [x] Vybrat lety a preferovaný tarif Saver.
 - [ ] Doplnit účastníky a rozpočet na ubytování, jídlo a aktivity.
-- [ ] Ověřit cenu přidání kabinového a/nebo 12 kg odbaveného zavazadla k Light a porovnat se Saver.
 - [ ] Potvrdit rezervaci a letový řád vybraných letů.
 - [ ] Ověřit podmínky vstupu, potřebné doklady a zajistit cestovní pojištění.
 - [ ] Rezervovat auto; ověřit zavazadlový prostor, pojištění a podmínky pro hory a pouštní kemp.
