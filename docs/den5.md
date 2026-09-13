@@ -8,7 +8,7 @@ nav_order: 6
 # Den 5 — Nizwa, Jabreen / Bahla a Al Hamra
 
 **Datum:** středa 17. března 2027  
-**[Plánovaný nocleh]({{ '/ubytovani/' | relative_url }}):** Jebel Shams
+**Plánovaný nocleh:** Jebel Shams
 
 Pevnost v Nizwě, Jabreen / Bahla a Al Hamra; poté přesun na Jebel Shams.
 
@@ -28,10 +28,8 @@ Pevnost v Nizwě, Jabreen / Bahla a Al Hamra; poté přesun na Jebel Shams.
 
 ## Rezervace a poznámky
 
-[Trasa a mapa]({{ '/trasa/' | relative_url }}).
+[Mapa cesty]({{ '/' | relative_url }}#mapa).
 
-[Březnové teploty v horách a oblečení s sebou]({{ '/prakticke/' | relative_url }}#breznove-teploty).
-
-Pracovní návrh — konkrétní časy, rezervace, náklady a odkazy na mapu zatím doplníme.
+[Checklist a výbava]({{ '/' | relative_url }}#checklist).
 
 [← Den 4]({{ '/4den/' | relative_url }}) · [Přehled]({{ '/' | relative_url }}) · [Den 6 →]({{ '/6den/' | relative_url }})

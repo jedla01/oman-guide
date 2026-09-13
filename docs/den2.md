@@ -8,7 +8,7 @@ nav_order: 3
 # Den 2 — Mešita, Bimmah a Wadi Shab
 
 **Datum:** neděle 14. března 2027  
-**[Plánovaný nocleh]({{ '/ubytovani/' | relative_url }}):** Ras Al Jinz / Sur
+**Plánovaný nocleh:** Ras Al Jinz / Sur
 
 Velká mešita v Maskatu, Bimmah Sinkhole a Wadi Shab; noc v oblasti Sur nebo Ras Al Jinz.
 
@@ -28,8 +28,6 @@ Velká mešita v Maskatu, Bimmah Sinkhole a Wadi Shab; noc v oblasti Sur nebo Ra
 
 ## Rezervace a poznámky
 
-[Trasa a mapa]({{ '/trasa/' | relative_url }}).
-
-Pracovní návrh — konkrétní časy, rezervace, náklady a odkazy na mapu zatím doplníme.
+[Mapa cesty]({{ '/' | relative_url }}#mapa).
 
 [← Den 1]({{ '/1den/' | relative_url }}) · [Přehled]({{ '/' | relative_url }}) · [Den 3 →]({{ '/3den/' | relative_url }})

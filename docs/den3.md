@@ -8,7 +8,7 @@ nav_order: 4
 # Den 3 — Sur, Wadi Bani Khalid a poušť
 
 **Datum:** pondělí 15. března 2027  
-**[Plánovaný nocleh]({{ '/ubytovani/' | relative_url }}):** Sharqiya Sands
+**Plánovaný nocleh:** Sharqiya Sands
 
 Ze Sur přes Wadi Bani Khalid do pouště Sharqiya Sands.
 
@@ -27,8 +27,6 @@ Ze Sur přes Wadi Bani Khalid do pouště Sharqiya Sands.
 
 ## Rezervace a poznámky
 
-[Trasa a mapa]({{ '/trasa/' | relative_url }}).
-
-Pracovní návrh — konkrétní časy, rezervace, náklady a odkazy na mapu zatím doplníme.
+[Mapa cesty]({{ '/' | relative_url }}#mapa).
 
 [← Den 2]({{ '/2den/' | relative_url }}) · [Přehled]({{ '/' | relative_url }}) · [Den 4 →]({{ '/4den/' | relative_url }})

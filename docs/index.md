@@ -1,60 +1,74 @@
 ---
 layout: default
 title: Přehled
+permalink: /
 nav_order: 1
 ---
 # Omán 2027
 
-První návrh našeho okruhu Ománem: pobřeží, poušť, historická města a hory.
+**Pracovní plán — lety jsou vybrané, rezervace letů a auta nepotvrzené; program a noclehy předběžné.**
 
-**Termín: 13.–21. března 2027.** Přílet do Maskatu v sobotu 13. března, poslední celý den v sobotu 20. března a odlet v noci z 20. na 21. března.
+[Letenky](#letenky) · [Půjčení auta](#auto) · [Program](#program-po-dnech) · [Checklist](#checklist)
 
-**Stav:** Pracovní návrh podle prvního podkladu. Program a místa noclehů jsou předběžné; lety jsou vybrané, rezervace, časy přesunů a podmínky návštěv ještě potvrdíme.
-
-## Základní údaje
+## Základní přehled
 
 | Údaj | Plán |
 | --- | --- |
-| Termín | 13.–21. 3. 2027 |
-| Program | 8 kalendářních dní programu včetně příletového dne, poté noční odlet |
-| Noclehy | 7 plánovaných nocí, od 13./14. do 19./20. 3. |
-| Účastníci | Doplnit |
-| Přílet | Maskat, sobota 13. 3. v 03:10 — PC830 |
-| Odlet | Maskat, neděle 21. 3. v 04:15 — PC831 |
+| Pobyt v Ománu | 13.–21. 3. 2027; odlet z Prahy 12. 3. |
+| Délka | 8 dní programu, 7 nocí; návrat 21. 3. |
+| Trasa | Maskat → pobřeží a Sur → Sharqiya Sands → Nizwa → Jebel Shams → Jebel Akhdar → Maskat |
+| Účastníci a zbývající rozpočet | Doplnit |
 
-## Ramadán a svátek Íd al-fitr
+### Mapa cesty {#mapa}
 
-**Naše cesta podle předběžného kalendáře vychází až po ramadánu, přílet však může připadnout na závěr svátečního volna.**
+<iframe src="https://drawonamap.com/embed/m/9lvWDTCq" title="Mapa cesty po Ománu" width="100%" height="420" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allow="geolocation" allowfullscreen></iframe>
 
-Ramadán je muslimský měsíc půstu, modliteb a dobročinnosti. Postící se muslimové během dne od úsvitu do západu slunce nejedí ani nepijí; jeho konec slaví svátkem **Íd al-fitr (Eid al-Fitr)**.
+## Letenky
 
-| Událost | Předpokládaný termín v Ománu v roce 2027 |
+**Pegasus Airlines · Saver preferovaný · Rezervace nepotvrzená**
+
+| Směr | Datum odletu | Let | Odkud | Odlet | Kam | Přílet | Délka letu | Přestup v SAW |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tam | 12. 3. 2027 | PC302 | PRG – Praha | 14:25 | SAW – Istanbul Sabiha | 19:05 | 2 h 40 min | 2 h 25 min |
+| Tam | 12. 3. 2027 | PC830 | SAW – Istanbul Sabiha | 21:30 | MCT – Maskat | 03:10 (+1, 13. 3.) | 4 h 40 min | — |
+| Zpět | 21. 3. 2027 | PC831 | MCT – Maskat | 04:15 | SAW – Istanbul Sabiha | 08:35 | 5 h 20 min | 4 h 10 min* |
+| Zpět | 21. 3. 2027 | PC301 | SAW – Istanbul Sabiha | 12:45 | PRG – Praha | 13:30 | 2 h 45 min | — |
+
+| Cena za celý směr | Light | **Saver · preferovaný** |
+| --- | ---: | ---: |
+| Praha → Maskat | 164 € | **197 €** |
+| Maskat → Praha | 155 € | **188 €** |
+| **Celkem** | **319 €** | **385 €** |
+
+Místní časy; délky letů a ceny dle podkladu. *Zpáteční přestup podle časů 08:35–12:45; v podkladu 4 h.
+
+## Půjčení auta {#auto}
+
+**Předběžně nalezená nabídka — rezervace nepotvrzená.**
+
+**Preferujeme auto s pohonem 4×4. Suzuki Vitara je nejlevnější menší varianta z nalezených nabídek.**
+
+| Údaj | Nabídka |
 | --- | --- |
-| První den půstu | 8. února |
-| Poslední den půstu | 9. března |
-| Íd al-fitr — začátek svátku | 10. března |
-| Navazující sváteční volno podle kalendáře | 11.–13. března |
+| Půjčovna | Sixt |
+| Auto | Suzuki Vitara 4×4 nebo podobné SUV |
+| Počet míst | 5 |
+| Převodovka | Automatická |
+| Zavazadla | 4 zavazadla k odbavení |
+| Kilometry | Bez omezení ujeté vzdálenosti |
+| Pobočka | Mezinárodní letiště Maskat (MCT), v terminálu |
+| Plánované vyzvednutí | 13. 3. 2027 v 07:00 — potvrdit u nové nabídky |
+| Plánované vrácení | 20. 3. 2027 ve 20:00 — potvrdit u nové nabídky |
+| Délka pronájmu | 8 dní |
+| **Cena za celé auto na 8 dní** | **14 061 Kč — bez pojištění s plným krytím** |
+| Zrušení | Zdarma |
+| Hodnocení pobočky | 8,6 — skvělé; 200+ recenzí |
 
-Termíny jsou **orientační**, nikoli oficiálně potvrzené pro rok 2027; začátek a konec ramadánu se v Ománu určují podle pozorování měsíčního srpku. Před cestou ověříme i vyhlášené sváteční volno. [Předběžný kalendář Ománu 2027](https://www.timeanddate.com/holidays/oman/2027).
-
-**Pro náš plán:** ověřit sváteční otevírací dobu v Maskatu a Mutrah a potvrdit dostupnost služeb při příletu. Ramadánový denní půst už podle tohoto odhadu do našeho pobytu nezasáhne.
-
-Při případné cestě během ramadánu se na veřejnosti za dne nejí, nepije ani nekouří, a to ani jako návštěvník; restaurace a obchody mohou mít upravenou otevírací dobu. [Doporučení ománského ministerstva zahraničí](https://www.fm.gov.om/en/visitors/travel-advice-for-visitors/) · [Praktické informace k ramadánu](https://www.gov.uk/foreign-travel-advice/oman/safety-and-security#ramadan).
-
-## Lety
-
-[Vybrané lety a ceny tarifů — Pegasus Airlines]({{ '/lety/' | relative_url }})
-
-## Podrobnosti cesty
-
-- [Trasa a mapa]({{ '/trasa/' | relative_url }})
-- [Auto]({{ '/auto/' | relative_url }})
-- [Ubytování]({{ '/ubytovani/' | relative_url }})
-- [Rozpočet]({{ '/rozpocet/' | relative_url }})
+Cenu plného pojistného krytí, odkaz na nabídku a podmínky pro hory a pouštní kemp ještě ověříme. Před rezervací ověříme prostor pro všechny cestující a zavazadla.
 
 ## Program po dnech
 
-Kliknutím na den otevřete podrobnější pracovní plán.
+Konkrétní hotely a kemp zatím nejsou vybrané. Podrobný plán otevřete kliknutím na den.
 
 | Den | Datum | Plánovaný nocleh | Hlavní program |
 | --- | --- | --- | --- |
@@ -67,30 +81,18 @@ Kliknutím na den otevřete podrobnější pracovní plán.
 | [Den 7]({{ '/7den/' | relative_url }}) | pátek 19. 3. | Maskat | Jebel Akhdar a návrat do Maskatu |
 | [Den 8]({{ '/8den/' | relative_url }}) | sobota 20. 3. | — | Daymaniyat / Maskat a odlet |
 
-Neděle **21. 3.** je den nočního odletu, bez dalšího plánovaného programu v Ománu.
+## Checklist
 
-## Před odjezdem
-
-- [x] Stanovit termín: 13.–21. 3. 2027.
-- [x] Připravit první návrh okruhu a noclehů.
-- [ ] Doplnit účastníky a rozpočet.
+- [x] Stanovit termín a připravit návrh okruhu s mapou a noclehy.
 - [x] Vybrat lety a preferovaný tarif Saver.
+- [ ] Doplnit účastníky a rozpočet na ubytování, jídlo a aktivity.
 - [ ] Potvrdit rezervaci a letový řád vybraných letů.
-- [ ] Ověřit aktuální podmínky vstupu a potřebné doklady.
-- [ ] Zajistit cestovní pojištění.
-- [ ] Potvrdit rezervaci auta a ověřit podmínky pro cestu do hor a pouštního kempu.
-- [ ] Doplnit reálné časy přesunů a upravit náročnější dny.
-- [ ] Rezervovat ubytování a případné aktivity.
-- [ ] Ověřit otevírací dobu a dostupnost míst pro termín cesty.
-- [x] Přidat společnou mapu cesty.
-- [ ] Připravit seznam věcí s sebou.
-
-## Praktické poznámky
-
-[Praktické — zásuvky, peníze a příprava na cestu]({{ '/prakticke/' | relative_url }})
-
-[Historie země — stručná historie, místní zvyklosti a klima]({{ '/oman/' | relative_url }})
-
-[Březnové teploty na trase]({{ '/prakticke/' | relative_url }}#breznove-teploty) · [Doporučené oblečení]({{ '/prakticke/' | relative_url }}#obleceni)
-
-Doplnit kontakty a zbývající výbavu.
+- [ ] Ověřit podmínky vstupu, potřebné doklady a zajistit cestovní pojištění.
+- [ ] Rezervovat auto; ověřit zavazadlový prostor, pojištění a podmínky pro hory a pouštní kemp.
+- [ ] Rezervovat ubytování, pouštní kemp a případné aktivity.
+- [ ] Doplnit časy přesunů a upravit náročnější dny.
+- [ ] Ověřit otevírací dobu a dostupnost služeb, včetně případného svátečního volna při příletu.
+- [ ] Naplánovat zázemí mezi vrácením auta a nočním odletem.
+- [ ] Připravit adaptér typu G, turistické boty, boty do vody, ochranu proti slunci a teplou vrstvu do hor.
+- [ ] Přibalit oblečení zakrývající ramena a kolena; do mešity dlouhé oblečení a pro ženy šátek na vlasy.
+- [ ] Před cestou ověřit počasí, připravit hotovost v OMR a uložit důležité kontakty.

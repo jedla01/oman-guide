@@ -8,7 +8,7 @@ nav_order: 7
 # Den 6 — Balcony Walk a přesun do hor
 
 **Datum:** čtvrtek 18. března 2027  
-**[Plánovaný nocleh]({{ '/ubytovani/' | relative_url }}):** Jebel Akhdar
+**Plánovaný nocleh:** Jebel Akhdar
 
 Balcony Walk na Jebel Shams a následný přesun na Jebel Akhdar.
 
@@ -28,10 +28,8 @@ Balcony Walk na Jebel Shams a následný přesun na Jebel Akhdar.
 
 ## Rezervace a poznámky
 
-[Trasa a mapa]({{ '/trasa/' | relative_url }}).
+[Mapa cesty]({{ '/' | relative_url }}#mapa).
 
-[Březnové teploty v horách a oblečení s sebou]({{ '/prakticke/' | relative_url }}#breznove-teploty).
-
-Pracovní návrh — konkrétní časy, rezervace, náklady a odkazy na mapu zatím doplníme.
+[Checklist a výbava]({{ '/' | relative_url }}#checklist).
 
 [← Den 5]({{ '/5den/' | relative_url }}) · [Přehled]({{ '/' | relative_url }}) · [Den 7 →]({{ '/7den/' | relative_url }})
