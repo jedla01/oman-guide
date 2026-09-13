@@ -63,15 +63,7 @@ Ceny dle dodaného podkladu. Kabinové zavazadlo lze přidat podle dostupné kap
 
 ### Výběr sedadel
 
-**U tarifů Light i Saver je výběr konkrétního sedadla vždy za příplatek, za osobu a jednotlivý let. Máme celkem 4 lety; při výběru na celé cestě se platí čtyřikrát.**
-
-| Sedadlo | Cena za osobu a let | Celkem za osobu na 4 lety |
-| --- | --- | --- |
-| Standardní | Rozsah ověřit: v podkladu 8,99–1,99 | Doplnit po ověření |
-| Přední řady | 11,99–12,99 | 47,96–51,96 |
-| Ostatní dražší místa | Vyšší cena dle výběru | Dle vybraných sedadel |
-
-Měnu cen sedadel a rozsah standardních míst ještě potvrdíme. Součet pro přední řady předpokládá uvedené rozpětí na všech čtyřech letech; příplatky nejsou zahrnuté v cenách letenek výše.
+Výběr konkrétních sedadel je poměrně drahý. Pokud si za něj nepřiplatíme, může se stát, že nebudeme sedět vedle sebe.
 
 ## Půjčení auta {#auto}
 
