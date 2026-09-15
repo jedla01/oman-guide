@@ -5,7 +5,8 @@
 - Use the user's mosque photo for the title background (`docs/assets/images/oman-title.png`), with a readable overlay. Keep navigation below the photo and retain the flag colors elsewhere.
 - Use tables for structured facts such as flights, fares, accommodation and budgets. Do not add long descriptions or repeat table values in prose.
 - For flights, show dates, flight numbers, airports, departure and arrival times, durations, connections and prices with currency. Mark next-day arrivals clearly.
-- Highlight the preferred option (currently Saver for flights) and show totals. Put direction-level fares once per direction, not on every flight segment.
+- Highlight the preferred option (currently Light + kabinové zavazadlo 8 kg for flights) and show totals. Put direction-level fares once per direction, not on every flight segment.
+- Keep this internal attendee gender mapping in `AGENTS.md` only; never render gender markers on site pages: Veronika Weissová (f), Pavel Jedlička (m), Andrea Pryszczová (f), Radek Meduna (m), Pavlína Medunová (f).
 - Add short notes only when needed to explain an ambiguity, discrepancy or booking status. Do not invent missing details or treat selected options as booked.
 - Keep detailed information on one page and link to it from the overview and relevant days.
 - Edit source files in `docs/`; do not edit generated `_site/` output.
