@@ -17,7 +17,7 @@ nav_order: 1
 | Pobyt v Ománu | 13.–21. 3. 2027; odlet z Prahy 12. 3. |
 | Délka | 8 dní programu, 7 nocí; návrat 21. 3. |
 | Trasa | Maskat → pobřeží a Sur → Sharqiya Sands → Nizwa → Jebel Shams → Jebel Akhdar → Maskat |
-| Účastníci | Veronika Weissová (f)<br>Pavel Jedlička (m)<br>Andrea Pryszczova (f)<br>Radek Meduna (m)<br>Pavlína Medunová (f) |
+| Účastníci | Veronika Weissová<br>Pavel Jedlička<br>Andrea Pryszczova<br>Radek Meduna<br>Pavlína Medunová |
 | Zbývající rozpočet | Doplnit |
 
 ### Mapa cesty {#mapa}
