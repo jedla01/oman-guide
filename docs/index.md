@@ -26,16 +26,23 @@ nav_order: 1
 
 ## Letenky
 
-**Pegasus Airlines · Light + kabinové 8 kg preferovaný · Rezervace nepotvrzená**
+**Pegasus Airlines · Saver preferovaný · Rezervace nepotvrzená**
 
 [Pegasus](https://www.flypgs.com/en/about-pegasus/why-pegasus) je turecká nízkonákladová letecká společnost.
 
-| Směr | Datum odletu | Let | Odkud | Odlet | Kam | Přílet | Délka letu | Přestup v SAW |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Tam | 12. 3. 2027 | PC302 | PRG – Praha | 14:25 | SAW – Istanbul Sabiha | 19:05 | 2 h 40 min | 2 h 25 min |
-| Tam | 12. 3. 2027 | PC830 | SAW – Istanbul Sabiha | 21:30 | MCT – Maskat | 03:10 (+1, 13. 3.) | 4 h 40 min | — |
-| Zpět | 21. 3. 2027 | PC831 | MCT – Maskat | 04:15 | SAW – Istanbul Sabiha | 08:35 | 5 h 20 min | 4 h 10 min* |
-| Zpět | 21. 3. 2027 | PC301 | SAW – Istanbul Sabiha | 12:45 | PRG – Praha | 13:30 | 2 h 45 min | — |
+<div class="flight-schedule" role="region" aria-label="Rozpis letů">
+  <table>
+    <thead>
+      <tr><th>Směr</th><th>Datum odletu</th><th>Let</th><th>Odkud</th><th>Odlet</th><th>Kam</th><th>Přílet</th><th>Délka letu</th><th>Přestup v SAW</th></tr>
+    </thead>
+    <tbody>
+      <tr><td data-label="Směr">Tam</td><td data-label="Datum odletu">12. 3. 2027</td><td data-label="Let">PC302</td><td data-label="Odkud">PRG – Praha</td><td data-label="Odlet">14:25</td><td data-label="Kam">SAW – Istanbul Sabiha</td><td data-label="Přílet">19:05</td><td data-label="Délka letu">2 h 40 min</td><td data-label="Přestup v SAW">2 h 25 min</td></tr>
+      <tr><td data-label="Směr">Tam</td><td data-label="Datum odletu">12. 3. 2027</td><td data-label="Let">PC830</td><td data-label="Odkud">SAW – Istanbul Sabiha</td><td data-label="Odlet">21:30</td><td data-label="Kam">MCT – Maskat</td><td data-label="Přílet">03:10 (+1, 13. 3.)</td><td data-label="Délka letu">4 h 40 min</td><td data-label="Přestup v SAW">—</td></tr>
+      <tr><td data-label="Směr">Zpět</td><td data-label="Datum odletu">21. 3. 2027</td><td data-label="Let">PC831</td><td data-label="Odkud">MCT – Maskat</td><td data-label="Odlet">04:15</td><td data-label="Kam">SAW – Istanbul Sabiha</td><td data-label="Přílet">08:35</td><td data-label="Délka letu">5 h 20 min</td><td data-label="Přestup v SAW">4 h 10 min*</td></tr>
+      <tr><td data-label="Směr">Zpět</td><td data-label="Datum odletu">21. 3. 2027</td><td data-label="Let">PC301</td><td data-label="Odkud">SAW – Istanbul Sabiha</td><td data-label="Odlet">12:45</td><td data-label="Kam">PRG – Praha</td><td data-label="Přílet">13:30</td><td data-label="Délka letu">2 h 45 min</td><td data-label="Přestup v SAW">—</td></tr>
+    </tbody>
+  </table>
+</div>
 
 Místní časy; délky letů dle podkladu. *Zpáteční přestup podle časů 08:35–12:45; v podkladu 4 h.
 
@@ -43,14 +50,14 @@ Místní časy; délky letů dle podkladu. *Zpáteční přestup podle časů 08
 
 Ceny za osobu; celá cesta zahrnuje 4 lety. Výběr konkrétních sedadel není zahrnutý.
 
-| Položka | Light | **Light + kabinové 8 kg · preferovaný** | Saver |
+| Položka | Light | Light + kabinové 8 kg | **Saver · preferovaný** |
 | --- | --- | --- | --- |
-| Taška pod sedadlo | 1 kus, 3 kg; 40 × 30 × 15 cm | 1 kus, 3 kg; 40 × 30 × 15 cm | 1 kus, 3 kg; 40 × 30 × 15 cm |
-| Kabinové zavazadlo | Není v ceně | **1 kus, 8 kg; 55 × 40 × 23 cm** | 1 kus, 8 kg; 55 × 40 × 23 cm |
-| Odbavené zavazadlo | Není v ceně | Není v ceně | 20 kg |
-| Praha → Maskat, celý směr | 164 € | **194 € (164 + 30)** | 197 € |
-| Maskat → Praha, celý směr | 147 € | **177 € (147 + 30)** | 180 € |
-| **Celkem tam i zpět** | 311 € | **371 € (311 + 2 × 30)** | 377 € |
+| Taška pod sedadlo | 1 kus, 3 kg; 40 × 30 × 15 cm | 1 kus, 3 kg; 40 × 30 × 15 cm | **1 kus, 3 kg; 40 × 30 × 15 cm** |
+| Kabinové zavazadlo | Není v ceně | 1 kus, 8 kg; 55 × 40 × 23 cm | **1 kus, 8 kg; 55 × 40 × 23 cm** |
+| Odbavené zavazadlo | Není v ceně | Není v ceně | **20 kg** |
+| Praha → Maskat, celý směr | 164 € | 194 € (164 + 30) | **197 €** |
+| Maskat → Praha, celý směr | 147 € | 177 € (147 + 30) | **180 €** |
+| **Celkem tam i zpět** | 311 € | 371 € (311 + 2 × 30) | **377 €** |
 
 ### Dokoupení zavazadel k Light
 
@@ -108,7 +115,7 @@ Konkrétní hotely a kemp zatím nejsou vybrané. Podrobný plán otevřete klik
 ## Checklist
 
 - [x] Stanovit termín a připravit návrh okruhu s mapou a noclehy.
-- [x] Vybrat lety a preferovaný tarif Light + kabinové zavazadlo 8 kg.
+- [x] Vybrat lety a preferovaný tarif Saver.
 - [ ] Doplnit účastníky a rozpočet na ubytování, jídlo a aktivity.
 - [ ] Potvrdit rezervaci a letový řád vybraných letů.
 - [ ] Ověřit podmínky vstupu, potřebné doklady a zajistit cestovní pojištění.
