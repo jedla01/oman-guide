@@ -34,5 +34,19 @@
         <span>{{ site.footer_content | escape }}</span>
       </footer>
     </main>
+
+    <script>
+      document.querySelectorAll('.main-content table').forEach((table) => {
+        const headings = Array.from(table.querySelectorAll('thead th'), (heading) => heading.textContent.trim());
+        if (!headings.length) return;
+
+        table.classList.add('responsive-table');
+        table.querySelectorAll('tbody tr').forEach((row) => {
+          Array.from(row.cells).forEach((cell, index) => {
+            if (cell.tagName === 'TD' && headings[index]) cell.dataset.label = headings[index];
+          });
+        });
+      });
+    </script>
   </body>
 </html>
