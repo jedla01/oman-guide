@@ -25,7 +25,7 @@ nav_order: 1
 
 ## Letenky
 
-**Pegasus Airlines · Saver preferovaný · Rezervace nepotvrzená**
+**Pegasus Airlines · Light + kabinové 8 kg preferovaný · Rezervace nepotvrzená**
 
 [Pegasus](https://www.flypgs.com/en/about-pegasus/why-pegasus) je turecká nízkonákladová letecká společnost.
 
@@ -42,14 +42,14 @@ Místní časy; délky letů dle podkladu. *Zpáteční přestup podle časů 08
 
 Ceny za osobu; celá cesta zahrnuje 4 lety. Výběr konkrétních sedadel není zahrnutý.
 
-| Položka | Light | Light + kabinové 8 kg | **Saver · preferovaný** |
+| Položka | Light | **Light + kabinové 8 kg · preferovaný** | Saver |
 | --- | --- | --- | --- |
 | Taška pod sedadlo | 1 kus, 3 kg; 40 × 30 × 15 cm | 1 kus, 3 kg; 40 × 30 × 15 cm | 1 kus, 3 kg; 40 × 30 × 15 cm |
-| Kabinové zavazadlo | Není v ceně | 1 kus, 8 kg; 55 × 40 × 23 cm | 1 kus, 8 kg; 55 × 40 × 23 cm |
-| Odbavené zavazadlo | Není v ceně | Není v ceně | **20 kg** |
-| Praha → Maskat, celý směr | 164 € | 194 € (164 + 30) | **197 €** |
-| Maskat → Praha, celý směr | 147 € | 177 € (147 + 30) | **180 €** |
-| **Celkem tam i zpět** | **311 €** | **371 € (311 + 2 × 30)** | **377 €** |
+| Kabinové zavazadlo | Není v ceně | **1 kus, 8 kg; 55 × 40 × 23 cm** | 1 kus, 8 kg; 55 × 40 × 23 cm |
+| Odbavené zavazadlo | Není v ceně | Není v ceně | 20 kg |
+| Praha → Maskat, celý směr | 164 € | **194 € (164 + 30)** | 197 € |
+| Maskat → Praha, celý směr | 147 € | **177 € (147 + 30)** | 180 € |
+| **Celkem tam i zpět** | 311 € | **371 € (311 + 2 × 30)** | 377 € |
 
 ### Dokoupení zavazadel k Light
 
@@ -107,7 +107,7 @@ Konkrétní hotely a kemp zatím nejsou vybrané. Podrobný plán otevřete klik
 ## Checklist
 
 - [x] Stanovit termín a připravit návrh okruhu s mapou a noclehy.
-- [x] Vybrat lety a preferovaný tarif Saver.
+- [x] Vybrat lety a preferovaný tarif Light + kabinové zavazadlo 8 kg.
 - [ ] Doplnit účastníky a rozpočet na ubytování, jídlo a aktivity.
 - [ ] Potvrdit rezervaci a letový řád vybraných letů.
 - [ ] Ověřit podmínky vstupu, potřebné doklady a zajistit cestovní pojištění.
