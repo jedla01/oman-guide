@@ -190,6 +190,81 @@ body > .page-header {
 .main-content table tbody tr:hover { background: #c6f1d9; }
 .main-content table td strong { color: #c8102e; }
 
+.flight-schedule {
+  margin: 1.25rem 0;
+  overflow-x: auto;
+}
+
+.flight-schedule table {
+  min-width: 62rem;
+  margin: 0;
+}
+
+.flight-schedule td,
+.flight-schedule th {
+  white-space: nowrap;
+}
+
+@media screen and (max-width: 42em) {
+  .flight-schedule {
+    overflow: visible;
+  }
+
+  .flight-schedule table,
+  .flight-schedule tbody,
+  .flight-schedule tr,
+  .flight-schedule td {
+    display: block;
+    width: 100%;
+  }
+
+  .flight-schedule table {
+    min-width: 0;
+  }
+
+  .flight-schedule thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+  }
+
+  .main-content .flight-schedule tr {
+    margin: 1rem 0;
+    overflow: hidden;
+    border: 1px solid $table-border-color;
+    border-radius: 0.65rem;
+    background: #ffffff;
+    box-shadow: 0 2px 8px rgba(0, 93, 56, 0.06);
+  }
+
+  .main-content .flight-schedule tr:nth-child(even) {
+    background: #ffffff;
+  }
+
+  .main-content .flight-schedule td {
+    display: grid;
+    grid-template-columns: minmax(6.4rem, 42%) minmax(0, 1fr);
+    gap: 0.5rem;
+    padding: 0.55rem 0.75rem;
+    border: 0;
+    border-bottom: 1px solid #e2f0e8;
+    white-space: normal;
+  }
+
+  .main-content .flight-schedule td:last-child {
+    border-bottom: 0;
+  }
+
+  .flight-schedule td::before {
+    content: attr(data-label);
+    color: #006b3c;
+    font-weight: 700;
+  }
+}
+
 .main-content blockquote {
   padding: 0.75rem 1.25rem;
   border-left: 4px solid #db2338;
