@@ -205,64 +205,42 @@ body > .page-header {
   white-space: nowrap;
 }
 
+.table-scroll {
+  margin: 1.25rem 0;
+  overflow-x: auto;
+  border: 1px solid $table-border-color;
+  border-radius: 0.65rem;
+}
+
+.table-scroll:focus-visible {
+  outline: 3px solid #c62035;
+  outline-offset: 3px;
+}
+
+.table-scroll table {
+  display: table;
+  width: max-content;
+  min-width: 100%;
+  margin: 0;
+  overflow: visible;
+}
+
 @media screen and (max-width: 42em) {
+  .table-scroll,
   .flight-schedule {
-    overflow: visible;
+    -webkit-overflow-scrolling: touch;
   }
 
-  .main-content .responsive-table,
-  .main-content .responsive-table tbody,
-  .main-content .responsive-table tr,
-  .main-content .responsive-table td {
-    display: block;
-    width: 100%;
+  .table-scroll table,
+  .flight-schedule table {
+    font-size: 0.85em;
   }
 
-  .main-content .responsive-table {
-    min-width: 0;
-    overflow: visible;
-  }
-
-  .main-content .responsive-table thead {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    overflow: hidden;
-    clip: rect(0 0 0 0);
-    white-space: nowrap;
-  }
-
-  .main-content .responsive-table tr {
-    margin: 1rem 0;
-    overflow: hidden;
-    border: 1px solid $table-border-color;
-    border-radius: 0.65rem;
-    background: #ffffff;
-    box-shadow: 0 2px 8px rgba(0, 93, 56, 0.06);
-  }
-
-  .main-content .responsive-table tr:nth-child(even) {
-    background: #ffffff;
-  }
-
-  .main-content .responsive-table td {
-    display: grid;
-    grid-template-columns: minmax(6.4rem, 42%) minmax(0, 1fr);
-    gap: 0.5rem;
-    padding: 0.55rem 0.75rem;
-    border: 0;
-    border-bottom: 1px solid #e2f0e8;
-    white-space: normal;
-  }
-
-  .main-content .responsive-table td:last-child {
-    border-bottom: 0;
-  }
-
-  .main-content .responsive-table td::before {
-    content: attr(data-label);
-    color: #006b3c;
-    font-weight: 700;
+  .table-scroll table td,
+  .table-scroll table th,
+  .flight-schedule table td,
+  .flight-schedule table th {
+    padding: 0.55rem 0.65rem;
   }
 }
 

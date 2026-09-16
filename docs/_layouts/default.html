@@ -37,15 +37,14 @@
 
     <script>
       document.querySelectorAll('.main-content table').forEach((table) => {
-        const headings = Array.from(table.querySelectorAll('thead th'), (heading) => heading.textContent.trim());
-        if (!headings.length) return;
-
-        table.classList.add('responsive-table');
-        table.querySelectorAll('tbody tr').forEach((row) => {
-          Array.from(row.cells).forEach((cell, index) => {
-            if (cell.tagName === 'TD' && headings[index]) cell.dataset.label = headings[index];
-          });
-        });
+        if (table.closest('.flight-schedule')) return;
+        const wrapper = document.createElement('div');
+        wrapper.className = 'table-scroll';
+        wrapper.tabIndex = 0;
+        wrapper.setAttribute('role', 'region');
+        wrapper.setAttribute('aria-label', 'Tabulka — posunutím zobrazíte další sloupce');
+        table.before(wrapper);
+        wrapper.append(table);
       });
     </script>
   </body>
