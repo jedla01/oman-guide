@@ -79,21 +79,23 @@ Výběr konkrétních sedadel je poměrně drahý. Pokud si za něj nepřiplatí
 
 **Preferujeme auto s pohonem 4×4. Suzuki Vitara je nejlevnější menší varianta z nalezených nabídek.**
 
-| Údaj | Nabídka |
-| --- | --- |
-| Půjčovna | Sixt |
-| Auto | Suzuki Vitara 4×4 nebo podobné SUV |
-| Počet míst | 5 |
-| Převodovka | Automatická |
-| Zavazadla | 4 zavazadla k odbavení |
-| Kilometry | Bez omezení ujeté vzdálenosti |
-| Pobočka | Mezinárodní letiště Maskat (MCT), v terminálu |
-| Plánované vyzvednutí | 13. 3. 2027 v 07:00 — potvrdit u nové nabídky |
-| Plánované vrácení | 20. 3. 2027 ve 20:00 — potvrdit u nové nabídky |
-| Délka pronájmu | 8 dní |
-| **Cena za celé auto na 8 dní** | **14 061 Kč — bez pojištění s plným krytím** |
-| Zrušení | Zdarma |
-| Hodnocení pobočky | 8,6 — skvělé; 200+ recenzí |
+<table class="key-value-table">
+  <tbody>
+    <tr><th scope="row">Půjčovna</th><td>Sixt</td></tr>
+    <tr><th scope="row">Auto</th><td>Suzuki Vitara 4×4 nebo podobné SUV</td></tr>
+    <tr><th scope="row">Počet míst</th><td>5</td></tr>
+    <tr><th scope="row">Převodovka</th><td>Automatická</td></tr>
+    <tr><th scope="row">Zavazadla</th><td>4 zavazadla k odbavení</td></tr>
+    <tr><th scope="row">Kilometry</th><td>Bez omezení ujeté vzdálenosti</td></tr>
+    <tr><th scope="row">Pobočka</th><td>Mezinárodní letiště Maskat (MCT), v terminálu</td></tr>
+    <tr><th scope="row">Plánované vyzvednutí</th><td>13. 3. 2027 v 07:00 — potvrdit u nové nabídky</td></tr>
+    <tr><th scope="row">Plánované vrácení</th><td>20. 3. 2027 ve 20:00 — potvrdit u nové nabídky</td></tr>
+    <tr><th scope="row">Délka pronájmu</th><td>8 dní</td></tr>
+    <tr><th scope="row">Cena za celé auto na 8 dní</th><td><strong>14 061 Kč — bez pojištění s plným krytím</strong></td></tr>
+    <tr><th scope="row">Zrušení</th><td>Zdarma</td></tr>
+    <tr><th scope="row">Hodnocení pobočky</th><td>8,6 — skvělé; 200+ recenzí</td></tr>
+  </tbody>
+</table>
 
 Cenu plného pojistného krytí, odkaz na nabídku a podmínky pro hory a pouštní kemp ještě ověříme. Před rezervací ověříme prostor pro všechny cestující a zavazadla.
 
