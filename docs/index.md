@@ -26,7 +26,7 @@ nav_order: 1
 
 ## Letenky
 
-**Pegasus Airlines · Saver preferovaný · Rezervace nepotvrzená**
+**Pegasus Airlines · Tarif Saver · Letenky zakoupeny za celkem 368 €**
 
 [Pegasus](https://www.flypgs.com/en/about-pegasus/why-pegasus) je turecká nízkonákladová letecká společnost.
 
@@ -46,28 +46,9 @@ nav_order: 1
 
 Místní časy; délky letů dle podkladu. *Zpáteční přestup podle časů 08:35–12:45; v podkladu 4 h.
 
-### Tarify a zavazadla
+### Zakoupené letenky
 
-Ceny za osobu; celá cesta zahrnuje 4 lety. Výběr konkrétních sedadel není zahrnutý.
-
-| Položka | Light | Light + kabinové 8 kg | **Saver · preferovaný** |
-| --- | --- | --- | --- |
-| Taška pod sedadlo | 1 kus, 3 kg; 40 × 30 × 15 cm | 1 kus, 3 kg; 40 × 30 × 15 cm | **1 kus, 3 kg; 40 × 30 × 15 cm** |
-| Kabinové zavazadlo | Není v ceně | 1 kus, 8 kg; 55 × 40 × 23 cm | **1 kus, 8 kg; 55 × 40 × 23 cm** |
-| Odbavené zavazadlo | Není v ceně | Není v ceně | **20 kg** |
-| Praha → Maskat, celý směr | 164 € | 194 € (164 + 30) | **197 €** |
-| Maskat → Praha, celý směr | 147 € | 177 € (147 + 30) | **180 €** |
-| **Celkem tam i zpět** | 311 € | 371 € (311 + 2 × 30) | **377 €** |
-
-### Dokoupení zavazadel k Light
-
-| Přidané zavazadlo | Cena za osobu | Účtování | Příplatek za celou cestu |
-| --- | ---: | --- | ---: |
-| Odbavené 12 kg | 30 € | Za let, dle původního podkladu | 120 € (4 lety) |
-| Odbavené 20 kg | 62 € | Za let, dle původního podkladu | 248 € (4 lety) |
-| Kabinové 8 kg, 55 × 40 × 23 cm | 30 € | **Za celý směr včetně přestupu** | **60 € (2 směry)** |
-
-Ceny dle dodaného podkladu. Kabinové zavazadlo lze přidat podle dostupné kapacity letu. [Pravidla zavazadel Pegasus](https://www.flypgs.com/en/pegasus-baggage-allowance) · [Rozměry a limity](https://www.flypgs.com/en/useful-info/info-about-flights/general-rules).
+Vybraný tarif **Saver** byl zakoupen za **celkem 368 €**. Výběr konkrétních sedadel není zahrnutý.
 
 ### Výběr sedadel
 
@@ -117,9 +98,8 @@ Konkrétní hotely a kemp zatím nejsou vybrané. Podrobný plán otevřete klik
 ## Checklist
 
 - [x] Stanovit termín a připravit návrh okruhu s mapou a noclehy.
-- [x] Vybrat lety a preferovaný tarif Saver.
+- [x] Zakoupit letenky v tarifu Saver za celkem 368 €.
 - [ ] Doplnit účastníky a rozpočet na ubytování, jídlo a aktivity.
-- [ ] Potvrdit rezervaci a letový řád vybraných letů.
 - [ ] Ověřit podmínky vstupu, potřebné doklady a zajistit cestovní pojištění.
 - [ ] Rezervovat auto; ověřit zavazadlový prostor, pojištění a podmínky pro hory a pouštní kemp.
 - [ ] Rezervovat ubytování, pouštní kemp a případné aktivity.
