@@ -10,7 +10,7 @@ nav_order: 8
 **Datum:** pátek 19. března 2027  
 **Plánovaný nocleh:** Maskat
 
-Vesnice a terasy na Jebel Akhdar, poté návrat do Maskatu. Pátek je vyhrazen především venkovnímu programu.
+Vesnice a terasy na Jebel Akhdar, poté návrat do Maskatu. Pátek je vyhrazen především venkovnímu programu. Alternativou je [potápění u Daymaniyat]({{ '/potapeni/' | relative_url }}).
 
 ## Program
 

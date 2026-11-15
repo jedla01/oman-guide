@@ -9,20 +9,18 @@ nav_order: 10
 
 **Stav:** možnost — není rezervovaná. Ceny jsou současné veřejné ceny, nezávazná nabídka pro březen 2027. (≈ 1 OMR = 57.56 CZK)
 
-Program možného potápění u ostrovů Daymaniyat (Dahl of the Arabian Sea) se nabízí na **den 8 — sobota 20. 3. 2027** místo šnorchlování. Všechny čtyři dotazované centra nabízejí dva ponory s průvodcem, plnou výbavu nebo příplatek za ni a občerstvení na lodi.
+Program možného potápění u ostrovů Daymaniyat (Dahl of the Arabian Sea) se nabízí na **pátek 19. 3. 2027**. Všechny čtyři dotazované centra nabízejí dva ponory s průvodcem, plnou výbavu nebo příplatek za ni a občerstvení na lodi.
 
 ## Porovnání center
 
 ### Ceny
 
-| Potápěcí centrum | Dva ponory | Pronájem vybavení | Cena na osobu | Celkem pro 5 |
-| --- | --- | --- | --- | --- |
-| MolaMola Diving Center | ano | plný kit | 59 OMR (3 396 CZK) | 295 OMR (16 980 CZK) |
-| SeaOman Dive Academy | ano | příplatek | od 39 OMR (2 245 CZK) | od 195 OMR (11 224 CZK) + vybavení + permit |
-| Global Scuba Oman | ano | plný kit | 55 OMR (3 166 CZK) | 275 OMR (15 829 CZK) |
-| Pearl Dimaniyat Diving Center | ano | plný kit | 55 OMR (3 166 CZK) | 275 OMR (15 829 CZK) |
-
-Při vlastním vybavení: MolaMola 47 OMR (2 705 CZK), Global Scuba 45 OMR (2 590 CZK).
+| Potápěcí centrum | Cena a výbava |
+| --- | --- |
+| MolaMola Diving Center | 59 OMR (3 396 CZK) / osoba; 295 OMR (16 980 CZK) / 5 osob. Plný kit; 47 OMR (2 705 CZK) při vlastním vybavení. |
+| SeaOman Dive Academy | od 39 OMR (2 245 CZK) / osoba; od 195 OMR (11 224 CZK) / 5 osob. Vybavení a permit navíc. |
+| Global Scuba Oman | 55 OMR (3 166 CZK) / osoba; 275 OMR (15 829 CZK) / 5 osob. Plný kit; 45 OMR (2 590 CZK) při vlastním vybavení. |
+| Pearl Dimaniyat Diving Center | 55 OMR (3 166 CZK) / osoba; 275 OMR (15 829 CZK) / 5 osob. Plný kit. |
 
 ### Co je zahrnuto
 
@@ -59,4 +57,4 @@ Při vlastním vybavení: MolaMola 47 OMR (2 705 CZK), Global Scuba 45 OMR (2 59
 
 [Mapa cesty]({{ '/' | relative_url }}#mapa).
 
-[← Den 8]({{ '/8den/' | relative_url }}) · [Přehled]({{ '/' | relative_url }})
+[← Den 7]({{ '/7den/' | relative_url }}) · [Přehled]({{ '/' | relative_url }})
