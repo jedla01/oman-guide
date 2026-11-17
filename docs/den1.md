@@ -5,25 +5,26 @@ nav_group: days
 permalink: /1den/
 nav_order: 2
 ---
-# Den 1 — Maskat a Mutrah
+# Den 1 — Nizwa, Bahla a Tanuf
 
 **Datum:** sobota 13. března 2027  
-**Plánovaný nocleh:** Maskat
+**Plánovaný nocleh:** Tanuf / Nizwa — The Pool Villa Tanuf (návrh, ne rezervace)
 
-Přílet do Maskatu vybraným letem **PC830 v 03:10 dne 13. 3.**; prohlídka města a Mutrah podle energie po noční cestě. [Rozpis letů]({{ '/' | relative_url }}#letenky).
+Po příletu letem **PC830 v 03:10** vyzvednutí auta a výběr hotovosti; poté přibližně dvouhodinový přejezd směrem na Nizwu. [Rozpis letů]({{ '/' | relative_url }}#letenky).
 
 ## Program
 
 | Část dne | Návrh |
 | --- | --- |
-| Ráno | Přílet; předběžné vyzvednutí auta Sixt v 07:00 v terminálu letiště MCT, poté příjezd do města |
-| Odpoledne | Maskat podle času a energie po cestě |
-| Večer | Mutrah a noc v Maskatu |
+| Ráno | Přílet, auto, hotovost a přejezd do Nizwy |
+| Dopoledne | Oman Across Ages Museum — přibližně 2 hodiny |
+| Odpoledne | Jabreen Castle, Bahla Fort a Nizwa Fort / centrální tržiště podle času |
+| Večer | Tanuf / Nizwa |
 
 ## K doplnění a ověření
 
-- [ ] Potvrdit přílet v 03:10 a vyzvednutí auta Sixt v 07:00 ([nabídka pronájmu]({{ '/' | relative_url }}#auto)).
-- [ ] Vybrat ubytování v Maskatu.
+- [ ] Potvrdit vyzvednutí auta po příletu a otevírací dobu muzea a pevností.
+- [ ] Ověřit The Pool Villa Tanuf pro 13.–16. 3. jako ubytování pro pět osob.
 
 ## Rezervace a poznámky
 

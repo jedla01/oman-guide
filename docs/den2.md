@@ -5,26 +5,25 @@ nav_group: days
 permalink: /2den/
 nav_order: 3
 ---
-# Den 2 — Mešita, Bimmah a Wadi Shab
+# Den 2 — Jebel Shams a Al Hamra
 
 **Datum:** neděle 14. března 2027  
-**Plánovaný nocleh:** Ras Al Jinz / Sur
+**Plánovaný nocleh:** Tanuf / Nizwa
 
-Velká mešita v Maskatu, Bimmah Sinkhole a Wadi Shab; noc v oblasti Sur nebo Ras Al Jinz.
+Hlavní program je Balcony Walk na Jebel Shams, poté zastávka v Al Hamra.
 
 ## Program
 
 | Část dne | Návrh |
 | --- | --- |
-| Ráno | Velká mešita v Maskatu |
-| Odpoledne | Bimmah Sinkhole a Wadi Shab |
-| Večer | Přesun do Sur / Ras Al Jinz |
+| 08:00–11:30 | Balcony Walk (W6) od Al Khitaym / Al Khateem; podle skupiny lze trasu kdykoli zkrátit otočením |
+| Odpoledne | Vyhlídka na opuštěnou vesnici Ghul a Al Hamra — stará část, uličky a palác |
+| Večer | Návrat do Tanufu / Nizwy |
 
 ## K doplnění a ověření
 
-- [ ] Ověřit návštěvní dobu a podmínky vstupu do mešity.
-- [ ] Doplnit délku přesunů a čas na Wadi Shab; podle toho upravit počet zastávek.
-- [ ] Rozhodnout mezi noclehem v Sur a Ras Al Jinz.
+- [ ] Ověřit přístupovou cestu, podmínky a počasí na Jebel Shams.
+- [ ] Upřesnit délku Balcony Walk podle kondice skupiny.
 
 ## Rezervace a poznámky
 
