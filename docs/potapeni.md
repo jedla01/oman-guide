@@ -23,7 +23,7 @@ Uvedlo cenu **55 OMR (3 166 CZK) / osoba** včetně plné výbavy a výběr dvou
 
 ### MolaMola Diving Center
 
-Potvrdilo dostupnost pro 5 certifikovaných potápěčů **19. 3. 2027**. Sraz je v **08:00** v Al Mouj Marina, dva ponory na dvou lokalitách Daymaniyat a oběd mezi ponory; návrat přibližně **14:00–15:00**. Cena je **59 OMR (3 396 CZK) / osoba** s plnou výbavou, tedy **295 OMR (16 980 CZK) / 5 osob**; bez vybavení 47 OMR (2 705 CZK) / osoba. Platba je v hotovosti v den výletu. K závazné rezervaci chtějí údaje o certifikaci a zkušenostech, telefon a velikosti trička a bot pro půjčované vybavení.
+První odpověď uváděla dostupnost **27. 3. 2027**. Následná odpověď se omlouvá za chybu data, žádá předchozí e-mail ignorovat a uvádí dostupnost **19. 3. 2027** pro 5 certifikovaných potápěčů. Kvůli rozporu mezi oběma e-maily je datum stále třeba výslovně znovu potvrdit; výlet nevedeme jako rezervovaný. Pokud platí opravená odpověď, sraz je v **08:00** v Al Mouj Marina, následují dva ponory na dvou lokalitách Daymaniyat a oběd mezi ponory; návrat přibližně **14:00–15:00**. Cena je **59 OMR (3 396 CZK) / osoba** s plnou výbavou, tedy **295 OMR (16 980 CZK) / 5 osob**; bez vybavení 47 OMR (2 705 CZK) / osoba. Platba je v hotovosti v den výletu. K závazné rezervaci chtějí údaje o certifikaci a zkušenostech, telefon a velikosti trička a bot pro půjčované vybavení.
 
 ## Porovnání center
 
