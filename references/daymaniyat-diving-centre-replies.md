@@ -1,6 +1,6 @@
 # Daymaniyat — nabídky potápěčských center
 
-Interní referenční podklad k možnému výletu pro pět certifikovaných potápěčů na **pátek 19. března 2027**. Obsahuje pouze důležité výsledky nabídek; nejde o potvrzenou rezervaci.
+Interní referenční podklad k možnému výletu pro pět certifikovaných potápěčů na **pátek 19. března 2027**. Obsahuje pouze důležité výsledky nabídek.
 
 ## Global Scuba Oman
 
@@ -19,8 +19,8 @@ Interní referenční podklad k možnému výletu pro pět certifikovaných pot�
 
 ## MolaMola Diving Center
 
-- Termín 19. 3. 2027 je nutné ještě výslovně potvrdit kvůli rozporné informaci o datu.
-- Pokud nabídka na 19. 3. platí: sraz v 08:00 v Al Mouj Marina, dva ponory na dvou lokalitách Daymaniyat, oběd mezi ponory, návrat přibližně 14:00–15:00.
+- Daymaniyat je dostupné pro 5 certifikovaných potápěčů 19. 3. 2027.
+- Sraz v 08:00 v Al Mouj Marina, dva ponory na dvou lokalitách Daymaniyat, oběd mezi ponory, návrat přibližně 14:00–15:00.
 - Cena: 59 OMR na osobu s plnou výbavou / 295 OMR pro pět osob (přibližně 3 396 Kč / 16 980 Kč); 47 OMR na osobu bez vybavení.
 - Platba hotově v den výletu.
 - Další místa z Marina Bandar Rowdah: Fahal Island, Bander Khairan a Jissah Point; konkrétní lokalita závisí na stavu moře.

@@ -7,7 +7,7 @@ nav_order: 10
 ---
 # Potápění — Daymaniyat
 
-**Stav:** možnost — není rezervovaná. Ceny jsou současné veřejné ceny, nezávazná nabídka pro březen 2027. (≈ 1 OMR = 57.56 CZK)
+**Stav:** žádný výlet zatím není rezervovaný. Ceny jsou současné veřejné ceny, nezávazná nabídka pro březen 2027. (≈ 1 OMR = 57.56 CZK)
 
 Možný program potápění u ostrovů Daymaniyat je pro **pátek 19. 3. 2027**. Níže jsou veřejné nabídky čtyř center a podrobnosti z odpovědí tří z nich.
 
@@ -24,12 +24,12 @@ Možný program potápění u ostrovů Daymaniyat je pro **pátek 19. 3. 2027**.
 
 - **Daymaniyat 19. 3.:** dva vybrané ponory v Daymaniyat Nature Reserve.
 - **Cena:** **55 OMR (3 166 CZK) / osoba** včetně plné výbavy; předběžně 275 OMR (15 829 CZK) / 5 osob.
-- **Důležité:** je nutné ověřit místo a čas srazu a návratu, permit, občerstvení a podmínky zrušení. Výlet není veden jako závazně rezervovaný.
+- **Důležité:** je nutné ověřit místo a čas srazu a návratu, permit, občerstvení a podmínky zrušení.
 
 ### MolaMola Diving Center
 
-- **Daymaniyat 19. 3.:** datum je nutné ještě výslovně potvrdit kvůli rozporné informaci o termínu; výlet není veden jako rezervovaný.
-- **Pokud platí nabídka 19. 3.:** sraz v **08:00** v Al Mouj Marina, dva ponory na dvou lokalitách Daymaniyat, oběd mezi ponory a návrat přibližně **14:00–15:00**. Cena s plnou výbavou je **59 OMR (3 396 CZK) / osoba**, tedy **295 OMR (16 980 CZK) / 5 osob**; bez vybavení 47 OMR (2 705 CZK) / osoba.
+- **Daymaniyat 19. 3.:** dostupné pro 5 certifikovaných potápěčů.
+- **Program:** sraz v **08:00** v Al Mouj Marina, dva ponory na dvou lokalitách Daymaniyat, oběd mezi ponory a návrat přibližně **14:00–15:00**. Cena s plnou výbavou je **59 OMR (3 396 CZK) / osoba**, tedy **295 OMR (16 980 CZK) / 5 osob**; bez vybavení 47 OMR (2 705 CZK) / osoba.
 - **Platba:** hotově v den výletu.
 - **Další nabídky:** z druhé pobočky v Marina Bandar Rowdah nabízejí Fahal Island, Bander Khairan a Jissah Point; konkrétní lokality určují podle stavu moře. U **nočních ponorů** je sraz v **16:15**, první ponor při západu slunce, druhý noční a konec v **22:30**.
 ## Porovnání center
@@ -54,7 +54,6 @@ Možný program potápění u ostrovů Daymaniyat je pro **pátek 19. 3. 2027**.
 
 ## Co je třeba ověřit před rezervací
 
-- [ ] Výslovně potvrdit pro MolaMola správné datum 19. 3. 2027.
 - [ ] Ověřit zahrnutí permitu u MolaMola a všechny podrobnosti nabídky Pearl (čas, místo, permit, občerstvení a podmínky).
 - [ ] Požadavky na certifikaci a minimální počet ponorů pro účastníky.
 - [ ] Zda je nutné čerstvé potápěčské lékařské vyšetření nebo platný certifikát.
