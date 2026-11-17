@@ -29,19 +29,19 @@ Možný program potápění u ostrovů Daymaniyat je pro **pátek 19. 3. 2027**.
 ### MolaMola Diving Center
 
 - **Daymaniyat 19. 3.:** dostupné pro 5 certifikovaných potápěčů.
-- **Program:** sraz v **08:00** v Al Mouj Marina, dva ponory na dvou lokalitách Daymaniyat, oběd mezi ponory a návrat přibližně **14:00–15:00**. Cena s plnou výbavou je **59 OMR (3 396 CZK) / osoba**, tedy **295 OMR (16 980 CZK) / 5 osob**; bez vybavení 47 OMR (2 705 CZK) / osoba.
+- **Program:** sraz v **08:00** v Al Mouj Marina, dva ponory na dvou lokalitách Daymaniyat, oběd mezi ponory a návrat přibližně **14:00–15:00**. Cena s plnou výbavou je **59 OMR (3 396 CZK) / osoba**, tedy **295 OMR (16 980 CZK) / 5 osob**.
 - **Platba:** hotově v den výletu.
 - **Další nabídky:** z druhé pobočky v Marina Bandar Rowdah nabízejí Fahal Island, Bander Khairan a Jissah Point; konkrétní lokality určují podle stavu moře. U **nočních ponorů** je sraz v **16:15**, první ponor při západu slunce, druhý noční a konec v **22:30**.
 ## Porovnání center
 
 ### Ceny
 
-| Potápěcí centrum | Cena a výbava |
+| Potápěcí centrum | Cena s plnou výbavou |
 | --- | --- |
-| MolaMola Diving Center | 59 OMR (3 396 CZK) / osoba; 295 OMR (16 980 CZK) / 5 osob. Plný kit; 47 OMR (2 705 CZK) při vlastním vybavení. |
-| SeaOman Dive Academy | od 39 OMR (2 245 CZK) / osoba; od 195 OMR (11 224 CZK) / 5 osob. Vybavení a permit navíc. |
-| Global Scuba Oman | 55 OMR (3 166 CZK) / osoba; 275 OMR (15 829 CZK) / 5 osob. Plná výbava bez potápěčského počítače; 45 OMR (2 590 CZK) při vlastním vybavení. |
-| Pearl Dimaniyat Diving Center | 55 OMR (3 166 CZK) / osoba; 275 OMR (15 829 CZK) / 5 osob. Plný kit. |
+| MolaMola Diving Center | 59 OMR (3 396 CZK) / osoba; 295 OMR (16 980 CZK) / 5 osob. |
+| SeaOman Dive Academy | Cena začíná od 39 OMR (2 245 CZK) / osoba, ale vybavení a permit se účtují navíc; finální cena s plnou výbavou není uvedena. |
+| Global Scuba Oman | 55 OMR (3 166 CZK) / osoba; 275 OMR (15 829 CZK) / 5 osob. Plná výbava bez potápěčského počítače. |
+| Pearl Dimaniyat Diving Center | 55 OMR (3 166 CZK) / osoba; 275 OMR (15 829 CZK) / 5 osob. Plná výbava. |
 
 ### Co je zahrnuto
 
