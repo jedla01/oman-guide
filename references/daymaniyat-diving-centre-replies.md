@@ -10,12 +10,17 @@ Interní referenční podklad k možnému výletu pro pět certifikovaných pot�
 - 55 OMR na osobu, 275 OMR pro pět osob (přibližně 3 166 Kč / 15 829 Kč při kurzu 57,56 Kč za OMR).
 - V ceně: plná výbava bez potápěčského počítače, permit, průvodce a občerstvení na lodi.
 - Další místa: Bander Khairan, vrak Al Munnassir a Fahal Island z Marina Bander Al Rowdha Sidab.
+- Kontakt: `booking@global-scuba.com` · https://www.global-scuba.com/
+  - Marina Bander Al Rowdha Sidab: +968 9548 3813, +968 9287 0722, +968 9425 2585
+  - Seeb Port Marina: +968 9636 1191, +968 9699 2240, +968 9970 6504
+  - Al Mouj Marina: +968 9636 1191, +968 9699 2240, +968 9970 6504
 
 ## Pearl Dimaniyat Diving Center
 
 - Daymaniyat Nature Reserve; dvě vybrané lokality.
 - 55 OMR na osobu s plnou výbavou, předběžně 275 OMR pro pět osob (přibližně 15 829 Kč).
 - Je nutné ověřit místo a čas srazu i návratu, permit, občerstvení a podmínky zrušení.
+- Kontakt: Muhammad Arif · `info@pearldimaniyat.com`, `pearldimaniyat@gmail.com` · WhatsApp +968 9980 4381 · https://pearldimaniyat.com/
 
 ## MolaMola Diving Center
 
@@ -25,3 +30,4 @@ Interní referenční podklad k možnému výletu pro pět certifikovaných pot�
 - Platba hotově v den výletu.
 - Další místa z Marina Bandar Rowdah: Fahal Island, Bander Khairan a Jissah Point; konkrétní lokalita závisí na stavu moře.
 - Noční ponory: sraz v 16:15, první ponor při západu slunce, druhý noční, konec v 22:30.
+- Kontakt: Charine, Office Manager · `info@molamoladivingcenter.com` · +968 9667 4612 · https://www.molamoladivingcenter.com/
