@@ -9,22 +9,31 @@ nav_order: 10
 
 **Stav:** možnost — není rezervovaná. Ceny jsou současné veřejné ceny, nezávazná nabídka pro březen 2027. (≈ 1 OMR = 57.56 CZK)
 
-Program možného potápění u ostrovů Daymaniyat (Dahl of the Arabian Sea) se nabízí na **pátek 19. 3. 2027**. Všechny čtyři dotazované centra nabízejí dva ponory s průvodcem, plnou výbavu nebo příplatek za ni a občerstvení na lodi.
+Možný program potápění u ostrovů Daymaniyat je pro **pátek 19. 3. 2027**. Níže jsou veřejné nabídky čtyř center a podrobnosti z odpovědí tří z nich.
 
-## Odpovědi center
+## Nabídky a odpovědi center
 
 ### Global Scuba Oman
 
-Potvrdilo možnost výletu pro 5 osob. Sraz v **08:00** v Global Scuba Seeb, návrat do mariny přibližně **13:00–13:30**. Cena je **55 OMR (3 166 CZK) / osoba**, tedy **275 OMR (15 829 CZK) / 5 osob**; zahrnuje dva ponory s lahvemi, plnou výbavu bez potápěčského počítače, permit, průvodce a občerstvení na lodi. Pro rezervaci chtějí jména, úroveň certifikace a kontaktní telefon.
+- **Daymaniyat 19. 3.:** možnost výletu pro 5 osob potvrzena.
+- **Místo a čas:** Global Scuba Seeb / Seeb Port Marina; sraz v **08:00**, návrat přibližně **13:00–13:30**.
+- **Program a cena:** dva ponory s lahvemi; **55 OMR (3 166 CZK) / osoba**, tedy **275 OMR (15 829 CZK) / 5 osob**. V ceně je plná výbava bez potápěčského počítače, permit, průvodce a občerstvení na lodi.
+- **Další nabídky:** Bander Khairan, vrak Al Munnassir a Fahal Island z centra Marina Bander Al Rowdha Sidab.
+- **K rezervaci:** jména, úroveň certifikace a kontaktní telefon pro případ změny kvůli stavu moře.
 
 ### Pearl Dimaniyat Diving Center
 
-Uvedlo cenu **55 OMR (3 166 CZK) / osoba** včetně plné výbavy a výběr dvou lokalit. V e-mailu napsalo „We confirm your booking“, ale neupřesnilo čas, permit, občerstvení ani podmínky; dokud to neověříme, nevedeme výlet jako rezervovaný.
+- **Daymaniyat 19. 3.:** centrum nabídlo Daymaniyat Nature Reserve a výběr dvou nejlepších lokalit.
+- **Cena:** **55 OMR (3 166 CZK) / osoba** včetně plné výbavy; předběžně 275 OMR (15 829 CZK) / 5 osob.
+- **Chybějící podrobnosti:** e-mail neuvádí místo ani čas srazu a návratu, permit, občerstvení ani podmínky zrušení.
+- **Stav:** e-mail obsahuje formulaci „We confirm your booking“, ale bez těchto podrobností ani potřebných údajů potápěčů se výlet nevede jako závazně rezervovaný.
 
 ### MolaMola Diving Center
 
-První odpověď uváděla dostupnost **27. 3. 2027**. Následná odpověď se omlouvá za chybu data, žádá předchozí e-mail ignorovat a uvádí dostupnost **19. 3. 2027** pro 5 certifikovaných potápěčů. Kvůli rozporu mezi oběma e-maily je datum stále třeba výslovně znovu potvrdit; výlet nevedeme jako rezervovaný. Pokud platí opravená odpověď, sraz je v **08:00** v Al Mouj Marina, následují dva ponory na dvou lokalitách Daymaniyat a oběd mezi ponory; návrat přibližně **14:00–15:00**. Cena je **59 OMR (3 396 CZK) / osoba** s plnou výbavou, tedy **295 OMR (16 980 CZK) / 5 osob**; bez vybavení 47 OMR (2 705 CZK) / osoba. Platba je v hotovosti v den výletu. K závazné rezervaci chtějí údaje o certifikaci a zkušenostech, telefon a velikosti trička a bot pro půjčované vybavení.
-
+- **Dostupnost Daymaniyat:** první odpověď uváděla **27. 3. 2027**. Následná odpověď se omlouvá za chybu data, žádá první e-mail ignorovat a uvádí **19. 3. 2027** pro 5 certifikovaných potápěčů. Kvůli rozporu je nutné datum ještě výslovně potvrdit; výlet nevedeme jako rezervovaný.
+- **Pokud platí opravená nabídka Daymaniyat:** sraz v **08:00** v Al Mouj Marina, dva ponory na dvou lokalitách Daymaniyat, oběd mezi ponory a návrat přibližně **14:00–15:00**. Cena s plnou výbavou je **59 OMR (3 396 CZK) / osoba**, tedy **295 OMR (16 980 CZK) / 5 osob**; bez vybavení 47 OMR (2 705 CZK) / osoba. Platba je v hotovosti v den výletu.
+- **Další nabídky MolaMola:** z druhé pobočky v Marina Bandar Rowdah nabízejí Fahal Island, Bander Khairan a Jissah Point; konkrétní lokality určují podle stavu moře. U **nočních ponorů** je sraz v **16:15**, první ponor při západu slunce, druhý noční a konec v **22:30**.
+- **K rezervaci:** údaje o certifikaci a zkušenostech, telefon a při pronájmu vybavení velikosti trička a bot.
 ## Porovnání center
 
 ### Ceny
@@ -40,15 +49,15 @@ První odpověď uváděla dostupnost **27. 3. 2027**. Následná odpověď se o
 
 | Potápěcí centrum | Zahrnuje |
 | --- | --- |
-| MolaMola Diving Center | Permit, dva ponory, BBQ oběd a občerstvení. |
+| MolaMola Diving Center | E-mail potvrzuje dva ponory, oběd a cenu s plnou výbavou; zahrnutí permitu je ještě třeba ověřit. |
 | SeaOman Dive Academy | Dva ponory, náplně, závaží, loď, voda a lehké občerstvení. Pronájem vybavení a permit Daymaniyat se účtují zvlášť. |
-| Global Scuba Oman | Plné vybavení, průvodce a občerstvení na lodi. Zahrnutí permitu na stránce chybí. |
-| Pearl Dimaniyat Diving Center | Dva lokality, plná sada vybavení, permity, sendviče, nealko a voda. |
+| Global Scuba Oman | E-mailem potvrzeno: plná výbava bez počítače, permit, průvodce a občerstvení na lodi. |
+| Pearl Dimaniyat Diving Center | E-mail potvrzuje plnou výbavu a dvě lokality; permit, občerstvení a další položky nebyly v odpovědi upřesněny. |
 
 ## Co je třeba ověřit před rezervací
 
-- [ ] Konkrétní datum a čas odjezdu od pobřeží; možnost ranního nebo odpoledního výjezdu.
-- [ ] Zahrnutí permitu Daymaniyat u SeaOman a Global Scuba (na stránce není jasné).
+- [ ] Výslovně potvrdit pro MolaMola správné datum 19. 3. 2027.
+- [ ] Ověřit zahrnutí permitu u MolaMola a všechny podrobnosti nabídky Pearl (čas, místo, permit, občerstvení a podmínky).
 - [ ] Požadavky na certifikaci a minimální počet ponorů pro účastníky.
 - [ ] Zda je nutné čerstvé potápěčské lékařské vyšetření nebo platný certifikát.
 - [ ] Podmínky zrušení a přesunu při špatném počasí.
