@@ -87,7 +87,7 @@ Konkrétní hotely a aktivity zatím nejsou rezervované. Podrobný plán otevř
 | Den | Datum | Plánovaný nocleh | Hlavní program |
 | --- | --- | --- | --- |
 | [Den 1]({{ '/1den/' | relative_url }}) | sobota 13. 3. | Tanuf / Nizwa | Nizwa, Jabreen, Bahla a Oman Across Ages Museum |
-| [Den 2]({{ '/2den/' | relative_url }}) | neděle 14. 3. | Tanuf / Nizwa | Jebel Shams, Balcony Walk a Al Hamra |
+| [Den 2]({{ '/2den/' | relative_url }}) | neděle 14. 3. | Tanuf / Nizwa | Jebel Shams, Balcony Walk, případně Via Ferrata, a Al Hamra |
 | [Den 3]({{ '/3den/' | relative_url }}) | pondělí 15. 3. | Tanuf / Nizwa | Jebel Akhdar — Diana's Point, Al Ayn a Village Walk |
 | [Den 4]({{ '/4den/' | relative_url }}) | úterý 16. 3. | Ras Al Jinz / Al Hadd | Wadi Bani Khalid, Sur a želvy v Ras Al Jinz |
 | [Den 5]({{ '/5den/' | relative_url }}) | středa 17. 3. | u pobřeží | Wadi Shab, Fins Beach, Bimmah a případně Bandar Khairan |
