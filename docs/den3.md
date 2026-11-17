@@ -5,25 +5,26 @@ nav_group: days
 permalink: /3den/
 nav_order: 4
 ---
-# Den 3 — Sur, Wadi Bani Khalid a poušť
+# Den 3 — Jebel Akhdar
 
 **Datum:** pondělí 15. března 2027  
-**Plánovaný nocleh:** Sharqiya Sands
+**Plánovaný nocleh:** Tanuf / Nizwa
 
-Ze Sur přes Wadi Bani Khalid do pouště Sharqiya Sands.
+Den v pohoří Jebel Akhdar: vyhlídky, horské vesnice, terasy a falaj.
 
 ## Program
 
 | Část dne | Návrh |
 | --- | --- |
-| Ráno | Sur |
-| Odpoledne | Wadi Bani Khalid |
-| Večer | Příjezd do Sharqiya Sands a noc v poušti |
+| Ráno | Diana's Point — vyhlídka u Anantara Al Jabal Al Akhdar Resort |
+| Dopoledne | Vesnice Al Ayn a krátká procházka mezi domy, terasami a zavlažovacími kanály |
+| Odpoledne | Village Walk: Al Ain → Ash Shirayjah → Sayq (cca 2 km, 1–1,5 hodiny) |
+| Večer | Falaj Al Khatmeen a návrat do Tanufu / Nizwy |
 
 ## K doplnění a ověření
 
-- [ ] Vybrat pouštní kemp a domluvit způsob příjezdu.
-- [ ] Doplnit program v Sur a čas na Wadi Bani Khalid.
+- [ ] Pro horský přejezd ověřit auto 4×4; na checkpointu Birkat Al Mouz jsou do Jebel Akhdar pouštěna jen vozidla 4×4.
+- [ ] Potvrdit přístup k trasám a terasám podle podmínek na místě.
 
 ## Rezervace a poznámky
 

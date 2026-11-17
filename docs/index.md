@@ -6,7 +6,7 @@ nav_order: 1
 ---
 # Omán 2027
 
-**Pracovní plán — lety jsou vybrané, rezervace letů a auta nepotvrzené; program a noclehy předběžné.**
+**Pracovní plán — letenky v tarifu Saver jsou zakoupené; auto, ubytování a aktivity nejsou rezervované.**
 
 [Letenky](#letenky) · [Půjčení auta](#auto) · [Program](#program-po-dnech) · [Checklist](#checklist)
 
@@ -16,7 +16,7 @@ nav_order: 1
 | --- | --- |
 | Cesta | 12.–21. 3. 2027; odlet z Prahy 12. 3., přílet do Prahy 21. 3. |
 | Délka | 10 kalendářních dnů cesty, 8 dní programu, 7 nocí |
-| Trasa | Maskat → pobřeží a Sur → Sharqiya Sands → Nizwa → Jebel Shams → Jebel Akhdar → Maskat |
+| Trasa | Maskat → Nizwa / Tanuf → Jebel Shams → Jebel Akhdar → Wadi Bani Khalid → Sur / Ras Al Jinz → pobřeží → Maskat → Daymaniyat → Maskat |
 | Účastníci | Veronika Weissová<br>Pavel Jedlička<br>Andrea Pryszczová<br>Radek Meduna<br>Pavlína Medunová |
 | Zbývající rozpočet | Doplnit |
 
@@ -82,18 +82,18 @@ Cenu plného pojistného krytí, odkaz na nabídku a podmínky pro hory a poušt
 
 ## Program po dnech
 
-Konkrétní hotely a kemp zatím nejsou vybrané. Podrobný plán otevřete kliknutím na den.
+Konkrétní hotely a aktivity zatím nejsou rezervované. Podrobný plán otevřete kliknutím na den.
 
 | Den | Datum | Plánovaný nocleh | Hlavní program |
 | --- | --- | --- | --- |
-| [Den 1]({{ '/1den/' | relative_url }}) | sobota 13. 3. | Maskat | Maskat a Mutrah |
-| [Den 2]({{ '/2den/' | relative_url }}) | neděle 14. 3. | Ras Al Jinz / Sur | Mešita, Bimmah a Wadi Shab |
-| [Den 3]({{ '/3den/' | relative_url }}) | pondělí 15. 3. | Sharqiya Sands | Sur, Wadi Bani Khalid a poušť |
-| [Den 4]({{ '/4den/' | relative_url }}) | úterý 16. 3. | Nizwa | Východ slunce v poušti a Nizwa |
-| [Den 5]({{ '/5den/' | relative_url }}) | středa 17. 3. | Jebel Shams | Nizwa, Jabreen / Bahla a Al Hamra |
-| [Den 6]({{ '/6den/' | relative_url }}) | čtvrtek 18. 3. | Jebel Akhdar | Balcony Walk a přesun do hor |
-| [Den 7]({{ '/7den/' | relative_url }}) | pátek 19. 3. | Maskat | Jebel Akhdar a návrat do Maskatu |
-| [Den 8]({{ '/8den/' | relative_url }}) | sobota 20. 3. | — | Daymaniyat / Maskat a odlet |
+| [Den 1]({{ '/1den/' | relative_url }}) | sobota 13. 3. | Tanuf / Nizwa | Nizwa, Jabreen, Bahla a Oman Across Ages Museum |
+| [Den 2]({{ '/2den/' | relative_url }}) | neděle 14. 3. | Tanuf / Nizwa | Jebel Shams, Balcony Walk, případně Via Ferrata, a Al Hamra |
+| [Den 3]({{ '/3den/' | relative_url }}) | pondělí 15. 3. | Tanuf / Nizwa | Jebel Akhdar — Diana's Point, Al Ayn a Village Walk |
+| [Den 4]({{ '/4den/' | relative_url }}) | úterý 16. 3. | Ras Al Jinz / Al Hadd | Wadi Bani Khalid, Sur a želvy v Ras Al Jinz |
+| [Den 5]({{ '/5den/' | relative_url }}) | středa 17. 3. | u pobřeží | Wadi Shab, Fins Beach, Bimmah a případně Bandar Khairan |
+| [Den 6]({{ '/6den/' | relative_url }}) | čtvrtek 18. 3. | Maskat | Velká mešita sultána Kábuse a Maskat |
+| [Den 7]({{ '/7den/' | relative_url }}) | pátek 19. 3. | Maskat | Daymaniyat — šnorchlování nebo potápění |
+| [Den 8]({{ '/8den/' | relative_url }}) | sobota 20. 3. | letiště MCT | Maskat, vrácení auta a noční odlet |
 
 ## Checklist
 
@@ -101,11 +101,12 @@ Konkrétní hotely a kemp zatím nejsou vybrané. Podrobný plán otevřete klik
 - [x] Zakoupit letenky v tarifu Saver za celkem 368 €.
 - [ ] Doplnit účastníky a rozpočet na ubytování, jídlo a aktivity.
 - [ ] Ověřit podmínky vstupu, potřebné doklady a zajistit cestovní pojištění.
-- [ ] Rezervovat auto; ověřit zavazadlový prostor, pojištění a podmínky pro hory a pouštní kemp.
-- [ ] Rezervovat ubytování, pouštní kemp a případné aktivity.
+- [ ] Rezervovat auto 4×4; ověřit zavazadlový prostor, pojištění a podmínky pro horské přejezdy.
+- [ ] Rezervovat ubytování v Tanufu / Nizwě, Ras Al Jinz / Al Hadd, u pobřeží a v Maskatu; vybrat případné aktivity.
 - [ ] Doplnit časy přesunů a upravit náročnější dny.
 - [ ] Ověřit otevírací dobu a dostupnost služeb, včetně případného svátečního volna při příletu.
 - [ ] Naplánovat zázemí mezi vrácením auta a nočním odletem.
 - [ ] Připravit adaptér typu G, turistické boty, boty do vody, ochranu proti slunci a teplou vrstvu do hor.
+- [ ] Přibalit plavky, tričko do vody, potápěčskou masku, šnorchl, potápěčský počítač a vodotěsný obal na telefon.
 - [ ] Přibalit oblečení zakrývající ramena a kolena; do mešity dlouhé oblečení a pro ženy šátek na vlasy.
 - [ ] Před cestou ověřit počasí, připravit hotovost v OMR a uložit důležité kontakty.

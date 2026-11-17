@@ -5,26 +5,26 @@ nav_group: days
 permalink: /7den/
 nav_order: 8
 ---
-# Den 7 — Jebel Akhdar a návrat do Maskatu
+# Den 7 — Daymaniyat
 
 **Datum:** pátek 19. března 2027  
 **Plánovaný nocleh:** Maskat
 
-Vesnice a terasy na Jebel Akhdar, poté návrat do Maskatu. Pátek je vyhrazen především venkovnímu programu. Alternativou je [potápění u Daymaniyat]({{ '/potapeni/' | relative_url }}).
+Celodenní výlet na ostrovy Daymaniyat z Al Mouj Marina. Možností je šnorchlování nebo [potápění]({{ '/potapeni/' | relative_url }}).
 
 ## Program
 
 | Část dne | Návrh |
 | --- | --- |
-| Ráno | Vesnice na Jebel Akhdar |
-| Odpoledne | Terasy a vyhlídky; poté návrat do Maskatu |
-| Večer | Noc v Maskatu |
+| Ráno | Výjezd z Al Mouj Marina na Daymaniyat |
+| Den | Celodenní výlet; šnorchlování nebo dva ponory podle vybraného centra |
+| Večer | Návrat do Maskatu |
 
 ## K doplnění a ověření
 
-- [ ] Ověřit aktuální období kvetení růží a přístup k terasám; růže jsou zatím námětem z návrhu.
-- [ ] Vybrat konkrétní procházku a doplnit čas návratu.
-- [ ] Případné kulturní zastávky doplnit až po ověření páteční otevírací doby.
+- [ ] Vybrat šnorchlování nebo potápění a odpovídající centrum.
+- [ ] Ověřit čas srazu, délku výletu, permit a podmínky zrušení.
+- [ ] Pro potápění navázat na [porovnání nabídek]({{ '/potapeni/' | relative_url }}).
 
 ## Rezervace a poznámky
 
